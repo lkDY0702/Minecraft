@@ -1,0 +1,74 @@
+[18:54:59.035] [Start] 程序版本：Release 2.8.3 (332)
+[18:54:59.039] [Start] 识别码：7D46-BF20-CF4D-8B92
+[18:54:59.039] [Start] 程序路径：C:\Users\wzj77\Desktop\我的世界PCL2\Plain Craft Launcher 2.exe
+[18:54:59.039] [Start] 系统编码：System.Text.DBCSCodePageEncoding (936, GBK=True)
+[18:54:59.039] [Start] 管理员权限：False
+[18:54:59.049] [Start] 第一阶段加载用时：109 ms
+[18:55:00.343] [Start] 版本号从 336 降低到 332
+[18:55:00.413] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[18:55:00.414] [Start] 第二阶段加载用时：1359 ms
+[18:55:00.422] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[18:55:01.427] [System] 窗口已置顶，位置：(350, 210), 860 x 520
+[18:55:01.435] [Animation] 动画线程开始
+[18:55:01.435] [Start] 第三阶段加载用时：94 ms
+[18:55:01.438] [Start] 加载 DLL：Json
+[18:55:01.439] [System] 获取资源：Json
+[18:55:01.450] [Launch] Minecraft 文件夹：C:\Users\wzj77\Desktop\我的世界PCL2\.minecraft\
+[18:55:01.552] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[18:55:01.557] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[18:55:01.676] [Java] 缓存中有 4 个可用的 Java：
+[18:55:01.678] [Java]  - JRE 8 (8.0.51)：D:\游戏\我的世界pcl2\.minecraft\runtime\java8\bin\
+[18:55:01.678] [Java]  - JDK 17 (17.0.11)：D:\游戏\我的世界pcl2\.minecraft\runtime\java17\bin\
+[18:55:01.678] [Java]  - JDK 22 (22.0.1)：D:\游戏\我的世界pcl2\.minecraft\runtime\java22\bin\
+[18:55:01.678] [Java]  - JRE 8 (8.0.421)：D:\java\bin\
+[18:55:01.883] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[18:55:01.884] [Loader] 加载器 PCL 服务 状态改变：Loading
+[18:55:01.885] [Server] 正在连接到 PCL 服务器
+[18:55:01.892] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[18:55:01.896] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1725792902-5477cb7d-0-6e8c5464315bdbb1ba74b415f3ba4a4e，超时 10000ms
+[18:55:02.182] [Server] 服务器公告：149|335|336|5，无需更新
+[18:55:02.211] [Server] 重要等级 0，更新公告 True
+[18:55:02.212] [System] 更新已开始，静默：True
+[18:55:02.212] [Loader] 加载器 PCL 服务 状态改变：Finished
+[18:55:02.797] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[18:55:03.705] [Page] 实例化：清空自定义主页 UI，来源为空
+[18:55:03.705] [Animation] 两个动画帧间隔 2250 ms
+[18:55:03.735] [Skin] 载入头像成功：Loader Skin Legacy
+[18:55:03.737] [System] DPI：192，系统版本：10.0.22631.0，PCL 位置：C:\Users\wzj77\Desktop\我的世界PCL2\Plain Craft Launcher 2.exe
+[18:55:03.747] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\wzj77\Desktop\我的世界PCL2\.minecraft\versions\1.21.1\
+[18:55:03.757] [Loader] 加载器 登录 状态改变：Loading
+[18:55:03.763] [Launch] 登录加载已开始
+[18:55:03.764] [Loader] 加载器 Loader Login Legacy 状态改变：Loading
+[18:55:03.765] [Launch] 登录方式：离线（zlczdy）
+[18:55:03.766] [Loader] 加载器 启动器更新 状态改变：Loading
+[18:55:03.767] [Loader] 加载器 Loader Login Legacy 状态改变：Finished
+[18:55:03.772] [Loader] 加载器 下载更新文件 状态改变：Loading
+[18:55:03.776] [Launch] 登录加载已结束
+[18:55:03.776] [Loader] 加载器 登录 状态改变：Finished
+[18:55:03.834] [Download] Update.zip 84#：开始，起始点 0，https://github.com/Hex-Dragon/PCL2/raw/main/%E6%9C%80%E6%96%B0%E6%AD%A3%E5%BC%8F%E7%89%88.zip
+[18:55:04.994] [Download] Update.zip 84#：文件大小 2181310（2.08 M）
+[18:55:07.360] [Animation] 两个动画帧间隔 703 ms
+[18:55:11.029] [Download] Update.zip 84#：超时（6s）
+[18:55:11.520] [Control] 按下单选按钮：正版
+[18:55:11.659] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[18:55:11.680] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[18:55:11.682] [Skin] 载入头像成功：Loader Skin Ms
+[18:55:12.254] [Control] 按下单选按钮：离线
+[18:55:12.463] [Download] Update.zip 87#：出错，该下载源不支持分段下载：Range 起始于 32768，预期 ContentLength 为 2148542，返回 ContentLength 为 2181310，总文件大小 2181310
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.WebException
+[18:55:12.463] [Download] Update.zip 87#：下载源被禁用（1）：https://gitcode.net/LTCat_/pcl2/-/raw/master/%E6%9C%80%E6%96%B0%E6%AD%A3%E5%BC%8F%E7%89%88.zip?inline=false
+[18:55:12.467] 下载源 1 已被禁用：该下载源不支持分段下载：Range 起始于 32768，预期 ContentLength 为 2148542，返回 ContentLength 为 2181310，总文件大小 2181310
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.WebException
+[18:55:12.591] [Download] 速度下限已提升到 463 K
+[18:55:13.055] [Download] 速度下限已提升到 926 K
+[18:55:15.932] [Download] Update.zip：已完成，剩余文件 0
+[18:55:15.933] [Loader] 加载器 下载更新文件 状态改变：Finished
+[18:55:15.936] [Loader] 加载器 安装更新 状态改变：Loading
+[18:55:15.939] [System] 无需清理目标更新文件：C:\Users\wzj77\Desktop\我的世界PCL2\PCL\Plain Craft Launcher 2.exe
+[18:55:15.993] [System] 更新文件解压完成
+[18:55:15.993] [Loader] 加载器 安装更新 状态改变：Finished
+[18:55:15.994] [Loader] 加载器 启动器更新 状态改变：Finished
+[19:01:50.411] [Control] 按下图标按钮：BtnTitleMin
+[19:01:51.061] [Animation] 两个动画帧间隔 641 ms

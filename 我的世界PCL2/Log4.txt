@@ -1,0 +1,82 @@
+[16:30:41.665] [Start] 程序版本：Release 2.6.1（293）
+[16:30:41.665] [Start] 识别码：AA70-7D32-E47D-AE83
+[16:30:41.665] [Start] 程序路径：F:\Plain Craft Launcher 2.exe
+[16:30:41.681] [Start] 第一阶段加载用时：125 ms
+[16:30:41.806] [Start] 版本号从 0 升高到 293
+[16:30:41.806] [Start] 最高版本号从 0 升高到 293
+[16:30:41.806] [Start] 已解除帮助页面的隐藏
+[16:30:41.884] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[16:30:41.884] [Start] 第二阶段加载用时：187 ms
+[16:30:43.540] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[16:30:43.587] [System] 窗口已置顶，位置：(530, 260), 860 x 520
+[16:30:43.603] [Start] 第三阶段加载用时：344 ms
+[16:30:43.603] [Animation] 动画线程开始
+[16:30:43.603] [Start] 加载 DLL：Json
+[16:30:43.603] [System] 获取资源：Json
+[16:30:43.619] [Launch] Minecraft 文件夹：F:\.minecraft\
+[16:30:43.712] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[16:30:43.712] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[16:30:43.791] [Skin] 载入头像成功：Loader Skin Legacy
+[16:30:43.806] [Control] 普通弹窗：协议授权
+在使用 PCL 前，请同意 PCL 的用户协议与免责声明。
+[16:30:43.822] [Minecraft] 启动按钮：Minecraft 版本：F:\.minecraft\versions\1.16.4\
+[16:30:44.306] [System] DPI：96，系统版本：10.0.17134.0，PCL 位置：F:\Plain Craft Launcher 2.exe
+[16:30:45.572] [Control] 按下按钮：同意
+[16:30:45.572] [Control] 普通弹框返回：1
+[16:30:45.572] [Java] 要求 Java 列表缓存更新
+[16:30:45.572] [Java] 初始化未找到可用的 Java，将自动触发搜索
+[16:30:45.572] [Loader] 加载器 查找 Java 状态改变：Loading
+[16:30:45.588] [Java] 开始部分遍历查找：C:\
+[16:30:45.791] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[16:30:45.791] [Loader] 加载器 PCL 服务 状态改变：Loading
+[16:30:45.791] [Server] 正在连接到 PCL 服务器
+[16:30:45.791] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[16:30:45.806] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1686040246-42d807e9-0-890e5bc9f3d1abed9d63d0fea3d3db8e，最大超时 10000
+[16:30:45.900] [Java] 开始部分遍历查找：D:\
+[16:30:45.900] [Java] 开始部分遍历查找：E:\
+[16:30:45.900] [Java] 开始部分遍历查找：F:\
+[16:30:45.900] [Java] 开始部分遍历查找：C:\Users\Administrator\AppData\Roaming\
+[16:30:45.900] [Java] 开始部分遍历查找：C:\Users\Administrator\AppData\Local\
+[16:30:45.994] [Server] 服务器公告：108|294|293|5，本地公告编号：0，需更新
+[16:30:45.994] [Java] 开始完全遍历查找：F:\
+[16:30:45.994] [Java] 开始完全遍历查找：F:\.minecraft\
+[16:30:46.009] [Loader] 加载器 源码获取 105# 状态改变：Loading
+[16:30:46.009] [Java] 开始确认列表 Java 状态，共 0 项
+[16:30:46.041] [Java] Java 搜索完成，发现 0 个 Java
+[16:30:46.041] [Loader] 加载器 查找 Java 状态改变：Finished
+[16:30:46.150] [Download] 1805801698_104 108#：开始，起始点 0，https://pcl2-server-1253424809.file.myqcloud.com/minecraft/download.json?sign=1686040246-447e5d16-0-14f2b77ebe48c2dd58baa280b72f7e32
+[16:30:46.181] [Download] 1805801698_104：文件大小 3896 B（3.8 K）
+[16:30:46.181] [Download] 1805801698_104：已完成，剩余文件 0
+[16:30:46.181] [Loader] 加载器 源码获取 105# 状态改变：Finished
+[16:30:46.197] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.json?sign=1686040246-6fb3ca12-0-6ccf02cacbc1fea3658fb073a5f8f505，最大超时 10000
+[16:30:46.228] [Loader] 加载器 PCL 服务 状态改变：Finished
+[16:30:46.681] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 30000
+[16:30:46.775] 加载线程 DlClientList Mojang (12) 发生运行时错误：获取结果失败，基础连接已经关闭: 发送时发生错误。（https://launchermeta.mojang.com/mc/game/version_manifest.json）
+你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+————————————
+详细错误信息：
+→ 基础连接已经关闭: 发送时发生错误。
+→ 无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。
+→ 远程主机强迫关闭了一个现有的连接。
+   在 PCL.ModNet.NetGetCodeByRequestRetry(String Url, Encoding Encode, String Accept, Boolean IsJson, String BackupUrl)
+   在 PCL.ModDownload.DlClientListMojangMain(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetGetCodeRequest(String Url, Encoding Encode, Int32 Timeout, Boolean IsJson, String Accept)
+   在 System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.FixedSizeReader.ReadPacket(Byte[] buffer, Int32 offset, Int32 count)
+   在 System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ProcessAuthentication(LazyAsyncResult lazyResult)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Net.TlsStream.ProcessAuthentication(LazyAsyncResult result)
+   在 System.Net.TlsStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.ConnectStream.WriteHeaders(Boolean async)
+   在 System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+错误类型：System.Net.Sockets.SocketException
+[16:30:46.775] [Loader] 加载器 DlClientList Mojang 状态改变：Failed
+[16:30:52.602] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[16:30:52.602] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished

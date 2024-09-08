@@ -1,0 +1,1552 @@
+[17:30:33.507] [Start] 程序版本：Release 2.6.1（293）
+[17:30:33.507] [Start] 识别码：C539-7CF4-42E8-2020
+[17:30:33.507] [Start] 程序路径：F:\Plain Craft Launcher 2.exe
+[17:30:33.507] [Start] 第一阶段加载用时：141 ms
+[17:30:33.623] [Start] 版本号从 0 升高到 293
+[17:30:33.623] [Start] 最高版本号从 0 升高到 293
+[17:30:33.638] [Start] 已解除帮助页面的隐藏
+[17:30:33.707] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[17:30:33.723] [Start] 第二阶段加载用时：203 ms
+[17:30:34.140] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[17:30:34.496] [System] 窗口已置顶，位置：(530, 260), 860 x 520
+[17:30:34.506] [Start] 第三阶段加载用时：234 ms
+[17:30:34.506] [Animation] 动画线程开始
+[17:30:34.514] [Start] 加载 DLL：Json
+[17:30:34.514] [System] 获取资源：Json
+[17:30:34.514] [Launch] Minecraft 文件夹：F:\.minecraft\
+[17:30:34.617] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[17:30:34.625] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[17:30:34.687] [Skin] 载入头像成功：Loader Skin Legacy
+[17:30:34.697] [Minecraft] 启动按钮：Minecraft 版本：F:\.minecraft\versions\1.16.4\
+[17:30:34.715] [Control] 普通弹窗：协议授权
+在使用 PCL 前，请同意 PCL 的用户协议与免责声明。
+[17:30:35.218] [System] DPI：96，系统版本：10.0.17134.0，PCL 位置：F:\Plain Craft Launcher 2.exe
+[17:30:36.245] [Control] 按下按钮：同意
+[17:30:36.245] [Control] 普通弹框返回：1
+[17:30:36.261] [Java] 要求 Java 列表缓存更新
+[17:30:36.261] [Java] 初始化未找到可用的 Java，将自动触发搜索
+[17:30:36.261] [Loader] 加载器 查找 Java 状态改变：Loading
+[17:30:36.261] [Java] 开始部分遍历查找：C:\
+[17:30:36.477] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[17:30:36.477] [Loader] 加载器 PCL 服务 状态改变：Loading
+[17:30:36.477] [Server] 正在连接到 PCL 服务器
+[17:30:36.477] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[17:30:36.493] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1686043836-790f8360-0-a9ad7a9ecb8cc0aa44bd8604747afdd0，最大超时 10000
+[17:30:36.568] [Java] 开始部分遍历查找：D:\
+[17:30:36.568] [Java] 开始部分遍历查找：E:\
+[17:30:36.568] [Java] 开始部分遍历查找：F:\
+[17:30:36.615] [Server] 服务器公告：108|294|293|5，本地公告编号：0，需更新
+[17:30:36.631] [Loader] 加载器 源码获取 113# 状态改变：Loading
+[17:30:36.662] [Java] 开始部分遍历查找：C:\Users\Administrator\AppData\Roaming\
+[17:30:36.662] [Java] 开始部分遍历查找：C:\Users\Administrator\AppData\Local\
+[17:30:36.756] [Java] 开始完全遍历查找：F:\
+[17:30:36.771] [Download] 1805801698_112 116#：开始，起始点 0，https://pcl2-server-1253424809.file.myqcloud.com/minecraft/download.json?sign=1686043837-78198b65-0-73c61d5e2c579594a28f79316b90b721
+[17:30:36.803] [Java] 开始完全遍历查找：F:\.minecraft\
+[17:30:36.803] [Download] 1805801698_112：文件大小 3896 B（3.8 K）
+[17:30:36.818] [Download] 1805801698_112：已完成，剩余文件 0
+[17:30:36.818] [Loader] 加载器 源码获取 113# 状态改变：Finished
+[17:30:36.834] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.json?sign=1686043837-3a5b4605-0-bd448341b40820bac748006ce2d984da，最大超时 10000
+[17:30:36.865] [Loader] 加载器 PCL 服务 状态改变：Finished
+[17:30:37.068] [Java] 开始确认列表 Java 状态，共 0 项
+[17:30:37.084] [Java] Java 搜索完成，发现 0 个 Java
+[17:30:37.084] [Loader] 加载器 查找 Java 状态改变：Finished
+[17:30:37.178] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 30000
+[17:30:37.271] 加载线程 DlClientList Mojang (11) 发生运行时错误：获取结果失败，基础连接已经关闭: 发送时发生错误。（https://launchermeta.mojang.com/mc/game/version_manifest.json）
+你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+————————————
+详细错误信息：
+→ 基础连接已经关闭: 发送时发生错误。
+→ 无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。
+→ 远程主机强迫关闭了一个现有的连接。
+   在 PCL.ModNet.NetGetCodeByRequestRetry(String Url, Encoding Encode, String Accept, Boolean IsJson, String BackupUrl)
+   在 PCL.ModDownload.DlClientListMojangMain(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetGetCodeRequest(String Url, Encoding Encode, Int32 Timeout, Boolean IsJson, String Accept)
+   在 System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.FixedSizeReader.ReadPacket(Byte[] buffer, Int32 offset, Int32 count)
+   在 System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ProcessAuthentication(LazyAsyncResult lazyResult)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Net.TlsStream.ProcessAuthentication(LazyAsyncResult result)
+   在 System.Net.TlsStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.ConnectStream.WriteHeaders(Boolean async)
+   在 System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+错误类型：System.Net.Sockets.SocketException
+[17:30:37.271] [Loader] 加载器 DlClientList Mojang 状态改变：Failed
+[17:30:53.800] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[17:30:53.800] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[17:30:53.802] [Skin] 载入头像成功：Loader Skin Legacy
+[17:31:31.827] [Control] 按下按钮：启动游戏
+[17:31:31.843] [Loader] 加载器 Loader Launch 状态改变：Loading
+[17:31:31.843] [System] 欲读取的文件不存在，已返回空字符串：F:\PCL\hints.txt
+[17:31:31.905] [Launch] 预检测已通过
+[17:31:31.905] [Download] 开始后台更新资源文件索引
+[17:31:31.905] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[17:31:31.905] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[17:31:31.905] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[17:31:31.905] [Loader] 加载器 获取 Java 状态改变：Loading
+[17:31:31.905] [Download] 版本 1.16.4 对应的资源文件索引为 1.16
+[17:31:31.905] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[17:31:31.921] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[17:31:31.921] [Loader] 加载器 登录 状态改变：Loading
+[17:31:31.921] [Loader] 加载器 补全文件 状态改变：Loading
+[17:31:31.921] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[17:31:31.921] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[17:31:31.921] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[17:31:31.921] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[17:31:31.921] [Launch] Java 版本需求：最低 1.8.0.0，最高 999.999.999.999
+[17:31:31.921] [Download] 版本 1.16.4 对应的资源文件索引为 1.16
+[17:31:31.921] [Launch] 登录加载已开始
+[17:31:31.921] [Loader] 加载器 Loader Login Legacy 状态改变：Loading
+[17:31:31.921] [Launch] 登录方式：离线（6）
+[17:31:31.921] [Loader] 加载器 Loader Login Legacy 状态改变：Finished
+[17:31:31.921] [Java] 开始完全遍历查找：F:\.minecraft\
+[17:31:31.937] [Launch] 登录加载已结束
+[17:31:31.937] [Loader] 加载器 登录 状态改变：Finished
+[17:31:31.937] [Java] 开始完全遍历查找：F:\.minecraft\versions\1.16.4\
+[17:31:31.937] [Launch] 无合适的 Java，需要确认是否自动下载
+[17:31:31.952] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[17:31:31.952] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[17:31:31.952] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[17:31:31.952] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[17:31:31.999] [Control] 普通弹窗：未找到 Java
+PCL 未找到 Java 8，是否需要 PCL 自动下载？
+如果你已经安装了 Java 8，请在 设置 → 启动选项 → 游戏 Java 中手动导入。
+[17:31:32.030] [Download] 1.16.json 222#：开始，起始点 0，https://download.mcbbs.net/v1/packages/28680197f74e5e1d55054f6a63509c8298d428f9/1.16.json
+[17:31:32.109] [Download] 1.16.json：文件大小 295229 B（288 K）
+[17:31:32.421] [Download] 1.16.json：已完成，剩余文件 0
+[17:31:32.421] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[17:31:32.421] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[17:31:32.546] [Launch] 后台更新资源文件索引成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\1.16.json
+[17:31:32.546] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[17:31:32.546] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[17:31:32.968] [Minecraft] 获取支持库列表：1.16.4
+[17:31:34.049] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[17:31:34.049] [Loader] 加载器 下载资源文件 状态改变：Loading
+[17:31:34.049] [Loader] 加载器 下载资源文件 状态改变：Finished
+[17:31:34.049] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[17:31:35.468] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[17:31:35.468] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[17:31:35.468] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[17:31:35.468] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[17:31:35.468] [Loader] 加载器 补全文件 状态改变：Finished
+[17:31:37.315] [Control] 按下按钮：取消
+[17:31:37.315] [Control] 普通弹框返回：2
+[17:31:37.315] 加载线程 获取 Java (23) 发生运行时错误：$$
+   在 PCL.ModLaunch.McLaunchJava(LoaderTask`2 Task)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[17:31:37.315] [Loader] 加载器 获取 Java 状态改变：Failed
+[17:31:37.315] [Loader] 加载器 Minecraft 启动 状态改变：Failed
+[17:31:37.499] 加载线程 Loader Launch (10) 发生运行时错误：获取 Java失败
+→ $$
+   在 PCL.ModLaunch.McLaunchStart(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   在 PCL.ModLaunch.McLaunchJava(LoaderTask`2 Task)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+[17:31:37.499] [Loader] 加载器 Loader Launch 状态改变：Failed
+[17:31:38.890] [Control] 按下单选按钮：设置
+[17:31:38.984] [Control] 切换主要页面：Setup, -1
+[17:31:40.750] [Control] 按下文本按钮：自动搜索
+[17:31:40.750] [Loader] 加载器 查找 Java 状态改变：Loading
+[17:31:40.765] [Java] 开始部分遍历查找：C:\
+[17:31:40.812] [UI] 弹出提示：正在搜索 Java！
+[17:31:41.000] [Java] 开始部分遍历查找：D:\
+[17:31:41.000] [Java] 开始部分遍历查找：E:\
+[17:31:41.000] [Java] 开始部分遍历查找：F:\
+[17:31:41.000] [Java] 开始部分遍历查找：C:\Users\Administrator\AppData\Roaming\
+[17:31:41.000] [Java] 开始部分遍历查找：C:\Users\Administrator\AppData\Local\
+[17:31:41.093] [Java] 开始完全遍历查找：F:\
+[17:31:41.109] [Java] 开始完全遍历查找：F:\.minecraft\
+[17:31:41.125] [Java] 位于 C:\Program Files\Java\jre1.8.0_291\bin\ 的 Java 不含符号链接
+[17:31:41.125] [Java] 位于 C:\Program Files (x86)\Common Files\Oracle\Java\javapath_target_384593\ 的 Java 不含符号链接
+[17:31:41.125] [Java] 位于 C:\Program Files\Java\jre1.8.0_291\bin\ 的 Java 不含特殊引用
+[17:31:41.125] [Java] 位于 C:\Program Files (x86)\Common Files\Oracle\Java\javapath_target_384593\ 的 Java 包含特殊引用
+[17:31:41.125] [Java] 开始确认列表 Java 状态，共 1 项
+[17:31:41.125] [System] 执行外部命令并等待返回结果：C:\Program Files\Java\jre1.8.0_291\bin\java.exe -version
+[17:31:41.345] [Java] JRE 8 (8.0.291)，64 位：C:\Program Files\Java\jre1.8.0_291\bin\
+[17:31:41.361] [Java] Java 搜索完成，发现 1 个 Java
+[17:31:41.361] [Loader] 加载器 查找 Java 状态改变：Finished
+[17:31:41.361] [Java] 修改 Java 选择设置：自动选择
+[17:31:41.377] [UI] 弹出提示：已找到 1 个 Java，请检查下拉框查看列表！
+[17:31:41.767] [Control] 按下单选按钮：启动
+[17:31:41.767] [Control] 切换主要页面：Launch, -1
+[17:31:43.028] [Control] 按下按钮：启动游戏
+[17:31:43.028] [Loader] 加载器 Loader Launch 状态改变：Loading
+[17:31:43.028] [System] 欲读取的文件不存在，已返回空字符串：F:\PCL\hints.txt
+[17:31:43.043] [Launch] 预检测已通过
+[17:31:43.043] [Download] 开始后台更新资源文件索引
+[17:31:43.043] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[17:31:43.043] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[17:31:43.043] [Download] 版本 1.16.4 对应的资源文件索引为 1.16
+[17:31:43.043] [Loader] 加载器 登录 状态改变：Waiting
+[17:31:43.043] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[17:31:43.043] [Loader] 加载器 获取 Java 状态改变：Loading
+[17:31:43.043] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[17:31:43.043] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[17:31:43.043] [Launch] Java 版本需求：最低 1.8.0.0，最高 999.999.999.999
+[17:31:43.043] [Java] 开始完全遍历查找：F:\.minecraft\
+[17:31:43.043] [Loader] 加载器 登录 状态改变：Loading
+[17:31:43.043] [Loader] 加载器 补全文件 状态改变：Loading
+[17:31:43.043] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[17:31:43.043] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[17:31:43.043] [Launch] 登录加载已开始
+[17:31:43.043] [Launch] 登录加载已结束
+[17:31:43.043] [Loader] 加载器 登录 状态改变：Finished
+[17:31:43.043] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[17:31:43.043] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[17:31:43.043] [Download] 版本 1.16.4 对应的资源文件索引为 1.16
+[17:31:43.075] [Java] 开始完全遍历查找：F:\.minecraft\versions\1.16.4\
+[17:31:43.075] [Download] 1.16.json 509#：开始，起始点 0，https://download.mcbbs.net/v1/packages/28680197f74e5e1d55054f6a63509c8298d428f9/1.16.json
+[17:31:43.075] [Java] 选定的 Java：JRE 8 (8.0.291)，64 位：C:\Program Files\Java\jre1.8.0_291\bin\
+[17:31:43.075] [Launch] 选择的 Java：JRE 8 (8.0.291)，64 位：C:\Program Files\Java\jre1.8.0_291\bin\
+[17:31:43.075] [Loader] 加载器 获取 Java 状态改变：Finished
+[17:31:43.075] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[17:31:43.075] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[17:31:43.075] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[17:31:43.075] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[17:31:43.075] [Download] 1.16.json：文件大小 295229 B（288 K）
+[17:31:43.106] [Minecraft] 获取支持库列表：1.16.4
+[17:31:43.244] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[17:31:43.244] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[17:31:43.244] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[17:31:43.244] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[17:31:43.413] [Download] 1.16.json：已完成，剩余文件 0
+[17:31:43.413] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[17:31:43.413] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[17:31:43.444] [Launch] 后台更新资源文件索引成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\1.16.json
+[17:31:43.444] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[17:31:43.444] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[17:31:43.460] [Report] FPS 0, 动画 7, 下载中 0（386 K/s）
+[17:31:43.476] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[17:31:43.476] [Loader] 加载器 下载资源文件 状态改变：Loading
+[17:31:43.476] [Loader] 加载器 下载资源文件 状态改变：Finished
+[17:31:43.476] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[17:31:43.476] [Loader] 加载器 补全文件 状态改变：Finished
+[17:31:43.476] [Loader] 加载器 获取启动参数 状态改变：Loading
+[17:31:43.476] [Launch] 开始获取 Minecraft 启动参数
+[17:31:43.476] [Launch] 获取新版 JVM 参数
+[17:31:43.476] [Launch] 当前剩余内存：5.7G
+[17:31:43.491] [System] 获取资源：JavaWrapper
+[17:31:43.507] [Java] 已释放 Java Wrapper：C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar
+[17:31:43.507] [Launch] 新版 JVM 参数获取成功：
+[17:31:43.507] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Xmn256m -Xmx3993m -Dlog4j2.formatMsgNoLookups=true -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" net.minecraft.client.main.Main
+[17:31:43.507] [Launch] 获取新版 Game 参数
+[17:31:43.507] [Launch] 新版 Game 参数获取成功
+[17:31:43.507] [Minecraft] 获取支持库列表：1.16.4
+[17:31:43.507] [Launch] Minecraft 启动参数：
+[17:31:43.507] [Launch] -Doolloo.jlw.tmpdir="C:\Users\Administrator\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="F:\.minecraft\versions\1.16.4\1.16.4-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=293 -cp "F:\.minecraft\libraries\com\mojang\patchy\1.3.9\patchy-1.3.9.jar;F:\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;F:\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;F:\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;F:\.minecraft\libraries\com\ibm\icu\icu4j\66.1\icu4j-66.1.jar;F:\.minecraft\libraries\com\mojang\javabridge\1.0.22\javabridge-1.0.22.jar;F:\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;F:\.minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;F:\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;F:\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;F:\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;F:\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;F:\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;F:\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;F:\.minecraft\libraries\com\mojang\brigadier\1.0.17\brigadier-1.0.17.jar;F:\.minecraft\libraries\com\mojang\datafixerupper\4.0.26\datafixerupper-4.0.26.jar;F:\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;F:\.minecraft\libraries\com\mojang\authlib\2.1.28\authlib-2.1.28.jar;F:\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;F:\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;F:\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;F:\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;F:\.minecraft\libraries\it\unimi\dsi\fastutil\8.2.1\fastutil-8.2.1.jar;F:\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;F:\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;F:\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;F:\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;F:\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;F:\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;F:\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;F:\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;F:\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;F:\.minecraft\libraries\com\mojang\text2speech\1.11.3\text2speech-1.11.3.jar;F:\.minecraft\versions\1.16.4\1.16.4.jar" -Xmn256m -Xmx3993m -Dlog4j2.formatMsgNoLookups=true -jar "C:\Users\Administrator\AppData\Roaming\PCL\JavaWrapper.jar" net.minecraft.client.main.Main --username 6 --version 1.16.4 --gameDir "F:\.minecraft" --assetsDir "F:\.minecraft\assets" --assetIndex 1.16 --uuid 00000XXXXXXXXXXXXXXXXXXXXXX6B6BC --accessToken 00000XXXXXXXXXXXXXXXXXXXXXX6B6BC --userType msa --versionType PCL --width 854 --height 480 
+[17:31:43.507] [Loader] 加载器 获取启动参数 状态改变：Finished
+[17:31:43.507] [Loader] 加载器 解压文件 状态改变：Loading
+[17:31:43.523] [Launch] 正在解压 Natives 文件
+[17:31:43.538] [Loader] 加载器 解压文件 状态改变：Finished
+[17:31:43.554] [Loader] 加载器 预启动处理 状态改变：Loading
+[17:31:43.569] [Launch] 并非首次启动，不修改语言
+[17:31:43.569] [Loader] 加载器 预启动处理 状态改变：Finished
+[17:31:43.585] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[17:31:43.614] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[17:31:43.614] [Loader] 加载器 启动进程 状态改变：Loading
+[17:31:43.629] [Launch] 已启动游戏进程：C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe
+[17:31:43.629] [Loader] 加载器 启动进程 状态改变：Finished
+[17:31:43.661] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[17:31:43.661] [Launch] 
+[17:31:43.661] [Launch] ~ 基础参数 ~
+[17:31:43.661] [Launch] PCL 版本：Release 2.6.1 (293)
+[17:31:43.661] [Launch] 游戏版本：原版 1.16.4（16.4）
+[17:31:43.661] [Launch] 资源版本：1.16
+[17:31:43.661] [Launch] 版本继承：无
+[17:31:43.661] [Launch] 分配的内存：3.9 GB（3994 MB）
+[17:31:43.661] [Launch] MC 文件夹：F:\.minecraft\
+[17:31:43.661] [Launch] 版本文件夹：F:\.minecraft\versions\1.16.4\
+[17:31:43.661] [Launch] 版本隔离：False
+[17:31:43.661] [Launch] HMCL 格式：False
+[17:31:43.661] [Launch] Java 信息：JRE 8 (8.0.291)，64 位：C:\Program Files\Java\jre1.8.0_291\bin\
+[17:31:43.661] [Launch] 环境变量：未设置
+[17:31:43.661] [Launch] 
+[17:31:43.661] [Launch] ~ 登录参数 ~
+[17:31:43.661] [Launch] 玩家用户名：6
+[17:31:43.661] [Launch] AccessToken：00000XXXXXXXXXXXXXXXXXXXXXX6B6BC
+[17:31:43.661] [Launch] ClientToken：00000XXXXXXXXXXXXXXXXXXXXXX6B6BC
+[17:31:43.661] [Launch] UUID：00000XXXXXXXXXXXXXXXXXXXXXX6B6BC
+[17:31:43.661] [Launch] 登录方式：Legacy
+[17:31:43.661] [Launch] 
+[17:31:43.661] [Launch] [7372] 开始 Minecraft 日志监控
+[17:31:43.661] [Launch] [全局] 出现运行中的 Minecraft
+[17:31:43.908] [Launch] [7372] 日志 1/5：已出现日志输出
+[17:31:49.227] [Launch] [7372] 日志 2/5：游戏用户已设置
+[17:31:49.621] [Launch] [7372] 日志 3/5：LWJGL 版本已确认
+[17:31:49.822] [Launch] [7372] Minecraft 窗口已加载：Minecraft 1.16.4（722590）
+[17:31:51.983] [Launch] [7372] Minecraft 加载已完成
+[17:31:52.028] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[17:31:52.042] [Loader] 加载器 结束处理 状态改变：Loading
+[17:31:52.044] [Launch] 开始启动结束处理
+[17:31:52.045] [Launch] 启动器可见性：5
+[17:31:52.045] [Loader] 加载器 结束处理 状态改变：Finished
+[17:31:52.126] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[17:31:52.462] [Loader] 加载器 Loader Launch 状态改变：Finished
+[17:31:52.463] [UI] 弹出提示：1.16.4 启动成功！
+[17:31:56.026] [Launch] [7372] 日志 4/5：OpenAL 已加载
+[17:31:56.418] [Launch] [7372] 日志 5/5：材质已加载
+[17:34:15.378] [Control] 按下单选按钮：下载
+[17:34:15.434] [Loader] 加载器 DlClientList Main 状态改变：Loading
+[17:34:15.436] [Control] 切换主要页面：Download, -1
+[17:34:15.445] [Loader] 加载器 DlClientList Bmclapi 状态改变：Loading
+[17:34:15.445] [Loader] 加载器 DlClientList Mojang 状态改变：Waiting
+[17:34:15.446] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/mc/game/version_manifest.json，最大超时 10000
+[17:34:15.533] [Loader] 加载器 DlOptiFineList Main 状态改变：Loading
+[17:34:15.535] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Loading
+[17:34:15.537] [Loader] 加载器 DlFabricList Main 状态改变：Loading
+[17:34:15.539] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Loading
+[17:34:15.542] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/optifine/versionList，最大超时 10000
+[17:34:15.542] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Loading
+[17:34:15.544] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Loading
+[17:34:15.544] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/maven/com/mumfrey/liteloader/versions.json，最大超时 10000
+[17:34:15.544] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/fabric-meta/v2/versions，最大超时 10000
+[17:34:15.549] [Download] 刷新 Forge 推荐版本缓存开始
+[17:34:15.549] [Loader] 加载器 源码获取 659# 状态改变：Loading
+[17:34:15.607] [Download] -1798645995_658 683#：开始，起始点 0，https://bmclapi2.bangbang93.com/forge/promos
+[17:34:16.445] [Loader] 加载器 DlClientList Bmclapi 状态改变：Finished
+[17:34:16.536] [Loader] 加载器 DlClientList Main 状态改变：Finished
+[17:34:16.590] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Finished
+[17:34:16.592] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Finished
+[17:34:16.793] [Download] -1798645995_658：文件大小 45318 B（44.3 K）
+[17:34:16.845] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Finished
+[17:34:16.848] [Download] -1798645995_658：已完成，剩余文件 0
+[17:34:16.848] [Loader] 加载器 源码获取 659# 状态改变：Finished
+[17:34:16.851] [Loader] 加载器 DlOptiFineList Main 状态改变：Finished
+[17:34:16.857] [Download] 刷新 Forge 推荐版本缓存成功
+[17:34:17.729] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Finished
+[17:34:17.738] [Loader] 加载器 DlFabricList Main 状态改变：Finished
+[17:34:18.804] [Control] 展开卡片：远古版 (68)
+[17:34:21.778] [Control] 展开卡片：愚人节版 (7)
+[17:34:22.719] [Loader] 加载器 Fabric API List Loader 状态改变：Loading
+[17:34:22.734] [Loader] 加载器 OptiFabric List Loader 状态改变：Loading
+[17:34:22.734] [Control] 按下单击列表项：2.0
+[17:34:22.734] [UI] 弹出提示：点击 Minecraft 项即可返回游戏主版本选择页面！
+[17:34:22.739] [Net] 获取网络结果：https://api.modrinth.com/v2/project/fabric-api，最大超时 10000
+[17:34:22.739] [Net] 获取网络结果：https://api.curseforge.com/v1/mods/322385，最大超时 10000
+[17:34:23.575] [Comp] 开始获取文件列表：322385
+[17:34:23.579] [Net] 发起网络请求（POST，https://api.curseforge.com/v1/mods/files），最大超时 15000
+[17:34:23.788] [Comp] 开始获取文件列表：fabric-api
+[17:34:23.788] [Net] 获取网络结果：https://api.modrinth.com/v2/project/fabric-api/version，最大超时 10000
+[17:34:25.488] [Loader] 加载器 OptiFabric List Loader 状态改变：Finished
+[17:34:26.021] [Loader] 加载器 Fabric API List Loader 状态改变：Finished
+[17:34:26.323] [Control] 按下图标按钮：BtnTitleMin
+[17:35:04.113] [System] 收到置顶信息：132660
+[17:35:04.132] [System] 窗口已置顶，位置：(491, 318), 860 x 520
+[17:35:07.898] [Control] 按下单选按钮：启动
+[17:35:07.898] [Control] 切换主要页面：Launch, -1
+[17:35:10.730] [Control] 按下按钮：版本选择
+[17:35:10.739] [Control] 切换主要页面：VersionSelect, 0
+[17:35:10.877] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[17:35:10.877] [Minecraft] 启动按钮：正在加载 Minecraft 版本
+[17:35:10.885] [Minecraft] 文件夹列表变更，重载所有版本
+[17:35:10.904] [Minecraft] 有效的 Minecraft 文件夹：当前文件夹 > F:\.minecraft\
+[17:35:10.973] 版本 json 可用性检查失败（F:\.minecraft\versions\1.18\）：未找到版本 json 文件：F:\.minecraft\versions\1.18\1.18.json
+   在 PCL.ModMinecraft.McVersion.PrintStub()
+   在 PCL.ModMinecraft.McVersion.LogoutStub()
+   在 PCL.ModMinecraft.McVersion.Check()
+[17:35:11.236] [Setup] 当前选择的 Minecraft 版本：1.16.4
+[17:35:11.236] [Minecraft] 选择该文件夹储存的 Minecraft 版本：F:\.minecraft\versions\1.16.4\
+[17:35:11.270] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[17:35:15.804] [Control] 展开卡片：愚人节版本 (1)
+[17:35:16.806] [Setup] 当前选择的 Minecraft 版本：2.0
+[17:35:16.829] [Control] 切换主要页面：Launch, -1
+[17:35:16.829] [Control] 按下单击列表项：2.0
+[17:35:16.937] [Minecraft] 启动按钮：Minecraft 版本：F:\.minecraft\versions\2.0\
+[17:35:19.194] [Control] 按下按钮：启动游戏
+[17:35:19.194] [Loader] 加载器 Loader Launch 状态改变：Loading
+[17:35:19.194] [System] 欲读取的文件不存在，已返回空字符串：F:\PCL\hints.txt
+[17:35:19.204] [Launch] 预检测已通过
+[17:35:19.204] [Download] 开始后台更新资源文件索引
+[17:35:19.204] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[17:35:19.204] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[17:35:19.205] [Download] 版本 2.0 对应的资源文件索引为 pre-1.6
+[17:35:19.205] [Loader] 加载器 登录 状态改变：Waiting
+[17:35:19.205] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[17:35:19.205] [Loader] 加载器 获取 Java 状态改变：Loading
+[17:35:19.205] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[17:35:19.205] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[17:35:19.206] [Launch] Java 版本需求：最低 0.0.0.0，最高 1.12.999.999
+[17:35:19.206] [Java] 开始完全遍历查找：F:\.minecraft\
+[17:35:19.206] [Loader] 加载器 登录 状态改变：Loading
+[17:35:19.206] [Loader] 加载器 补全文件 状态改变：Loading
+[17:35:19.206] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[17:35:19.206] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[17:35:19.206] [Launch] 登录加载已开始
+[17:35:19.206] [Launch] 登录加载已结束
+[17:35:19.206] [Loader] 加载器 登录 状态改变：Finished
+[17:35:19.206] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[17:35:19.206] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[17:35:19.207] [Download] 版本 2.0 对应的资源文件索引为 pre-1.6
+[17:35:19.207] [Minecraft] 获取支持库列表：2.0
+[17:35:19.221] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[17:35:19.221] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[17:35:19.222] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[17:35:19.222] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[17:35:19.223] [Download] pre-1.6.json 1511#：开始，起始点 0，https://download.mcbbs.net/v1/packages/4759bad2824e419da9db32861fcdc3a274336532/pre-1.6.json
+[17:35:19.225] [Java] 开始完全遍历查找：F:\.minecraft\versions\2.0\
+[17:35:19.225] [Java] 选定的 Java：JRE 8 (8.0.291)，64 位：C:\Program Files\Java\jre1.8.0_291\bin\
+[17:35:19.225] [Launch] 选择的 Java：JRE 8 (8.0.291)，64 位：C:\Program Files\Java\jre1.8.0_291\bin\
+[17:35:19.225] [Loader] 加载器 获取 Java 状态改变：Finished
+[17:35:19.258] [Download] pre-1.6.json：文件大小 73813 B（72.1 K）
+[17:35:19.276] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[17:35:19.276] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[17:35:19.332] [Download] pre-1.6.json：已完成，剩余文件 3
+[17:35:19.332] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[17:35:19.332] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[17:35:19.344] [Download] 2.0.jar 1637#：开始，起始点 0，http://pcl2-server-1253424809.file.myqcloud.com/minecraft/2.0.jar?sign=1686044119-5bd04b97-0-33b1c48eb4dd5b40bb17c9c77155b454
+[17:35:19.377] [Download] 2.0.jar：文件大小 5616654 B（5.36 M）
+[17:35:19.466] [Download] lwjgl-2.9.0.jar 1641#：开始，起始点 0，https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl/2.9.0/lwjgl-2.9.0.jar
+[17:35:19.485] [Launch] 后台更新资源文件索引成功：C:\Users\Administrator\AppData\Local\Temp\PCL\Cache\pre-1.6.json
+[17:35:19.485] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[17:35:19.485] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[17:35:19.539] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[17:35:19.592] [Download] lwjgl-2.9.0.jar 1641#：出错，基础连接已经关闭: 发送时发生错误。
+你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+————————————
+详细错误信息：
+→ 无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。
+→ 远程主机强迫关闭了一个现有的连接。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.Sockets.SocketException
+[17:35:19.598] [Download] lwjgl-platform-2.9.0-natives-windows.jar 1953#：开始，起始点 0，https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.0/lwjgl-platform-2.9.0-natives-windows.jar
+[17:35:19.600] [Loader] 加载器 下载资源文件 状态改变：Loading
+[17:35:19.719] [Download] calm1.ogg 1955#：开始，起始点 0，https://download.mcbbs.net/assets/50/50a59a4f56e4046701b758ddbb1c1587efa4cadf
+[17:35:19.719] [Download] calm2.ogg 1956#：开始，起始点 0，https://download.mcbbs.net/assets/74/74da65c99aa578486efa7b69983d3533e14c0d6e
+[17:35:19.719] [Download] hal1.ogg 1957#：开始，起始点 0，https://download.mcbbs.net/assets/df/df1ff11b79757432c5c3f279e5ecde7b63ceda64
+[17:35:19.719] [Download] hal4.ogg 1958#：开始，起始点 0，https://download.mcbbs.net/assets/5e/5e7d63e75c6e042f452bc5e151276911ef92fed8
+[17:35:19.720] [Download] howl2.ogg 1959#：开始，起始点 0，https://download.mcbbs.net/assets/cd/cdb0293c5e2bdbda21798af4e61a4c171c8b1ec0
+[17:35:19.720] [Download] wood1.ogg 1960#：开始，起始点 0，https://download.mcbbs.net/assets/fa/fa73977dd28020544f7fe2553e5604a6865ec1a6
+[17:35:19.720] [Download] wood4.ogg 1961#：开始，起始点 0，https://download.mcbbs.net/assets/10/1028d0a373790e14c34786a925c4656bdaeb4c4d
+[17:35:19.720] [Download] zpig1.ogg 1962#：开始，起始点 0，https://download.mcbbs.net/assets/ec/ec4b0396dd2fc2da8fab91ddc35218d3426349b3
+[17:35:19.720] [Download] zpig3.ogg 1963#：开始，起始点 0，https://download.mcbbs.net/assets/c9/c9f7fa36ae48eca0a1f6ce024fde5d3472d30b4d
+[17:35:19.720] [Download] bd.ogg 1964#：开始，起始点 0，https://download.mcbbs.net/assets/1a/1afefaa39a53606d2737bab9cb3409350cb2dc9f
+[17:35:19.721] [Download] bowhit4.ogg 1965#：开始，起始点 0，https://download.mcbbs.net/assets/9e/9e5e2369fc354a082c861494cfe8767d327813d4
+[17:35:19.721] [Download] drink.ogg 1966#：开始，起始点 0，https://download.mcbbs.net/assets/85/857b75738992d25e338dee640ab191323bcbf798
+[17:35:19.721] [Download] grass3.ogg 1967#：开始，起始点 0，https://download.mcbbs.net/assets/f7/f7d7e5c7089c9b45fa5d1b31542eb455fad995db
+[17:35:19.721] [Download] grass4.ogg 1968#：开始，起始点 0，https://download.mcbbs.net/assets/c7/c7b1005d4926f6a2e2387a41ab1fb48a72f18e98
+[17:35:19.721] [Download] sand1.ogg 1969#：开始，起始点 0，https://download.mcbbs.net/assets/9e/9e59c3650c6c3fc0a475f1b753b2fcfef430bf81
+[17:35:19.721] [Download] sand4.ogg 1970#：开始，起始点 0，https://download.mcbbs.net/assets/37/37afa06f97d58767a1cd1382386db878be1532dd
+[17:35:19.721] [Download] snow4.ogg 1971#：开始，起始点 0，https://download.mcbbs.net/assets/e2/e26fa3036cdab4c2264ceb19e1cd197a2a510227
+[17:35:19.722] [Download] stone1.ogg 1972#：开始，起始点 0，https://download.mcbbs.net/assets/4e/4e094ed8dfa98656d8fec52a7d20c5ee6098b6ad
+[17:35:19.722] [Download] stone2.ogg 1973#：开始，起始点 0，https://download.mcbbs.net/assets/9c/9c92f697142ae320584bf64c0d54381d59703528
+[17:35:19.722] [Download] stone3.ogg 1974#：开始，起始点 0，https://download.mcbbs.net/assets/8f/8f23c02475d388b23e5faa680eafe6b991d7a9d4
+[17:35:19.722] [Download] wood1.ogg 1975#：开始，起始点 0，https://download.mcbbs.net/assets/9b/9bc2a84d0aa98113fc52609976fae8fc88ea6333
+[17:35:19.722] [Download] pack.mcmeta 1976#：开始，起始点 0，https://download.mcbbs.net/assets/c2/c253af2f3e7178fa16a3278cc604c6bee1926add
+[17:35:19.722] [Download] grass2.ogg 1977#：开始，起始点 0，https://download.mcbbs.net/assets/86/86cb1bb0c45625b18e00a64098cd425a38f6d3f2
+[17:35:19.722] [Download] wood4.ogg 1978#：开始，起始点 0，https://download.mcbbs.net/assets/dc/dc66978374a46ab2b87db6472804185824868095
+[17:35:19.723] [Download] cave1.ogg 1979#：开始，起始点 0，https://download.mcbbs.net/assets/29/29d4dccf3353334c7aa2a49cb6fed3780a51a1ba
+[17:35:19.723] [Download] cave11.ogg 1980#：开始，起始点 0，https://download.mcbbs.net/assets/e3/e367d1dfa1ce07374e0aeaecbfb1526142a0dcc1
+[17:35:19.723] [Download] cave12.ogg 1981#：开始，起始点 0，https://download.mcbbs.net/assets/a7/a720e85e35be0dc3186d01cc599121b87e7ee9f7
+[17:35:19.723] [Download] cave3.ogg 1982#：开始，起始点 0，https://download.mcbbs.net/assets/d4/d4b06ccb8e331ece734f51d84a0a5fbc7164d8be
+[17:35:19.723] [Download] cave5.ogg 1983#：开始，起始点 0，https://download.mcbbs.net/assets/18/18a992d93128bb2e2861930cff3140c6940c0127
+[17:35:19.723] [Download] cave6.ogg 1984#：开始，起始点 0，https://download.mcbbs.net/assets/cf/cf23204a9cca2ac7f9674168cc063cfb4dbe001f
+[17:35:19.723] [Download] cave7.ogg 1985#：开始，起始点 0，https://download.mcbbs.net/assets/c8/c8dd60f7e7087da52a431c1dbc0f397317b374fb
+[17:35:19.723] [Download] cave8.ogg 1986#：开始，起始点 0，https://download.mcbbs.net/assets/90/9024de3f1dd4bc1e8f445c7c5b812f25c7e31bf6
+[17:35:19.724] [Download] rain4.ogg 1987#：开始，起始点 0，https://download.mcbbs.net/assets/08/08e555782cb2785b24e08a417a5e58aa08bd0695
+[17:35:19.724] [Download] cloth1.ogg 1988#：开始，起始点 0，https://download.mcbbs.net/assets/5f/5fd568d724ba7d53911b6cccf5636f859d2662e8
+[17:35:19.724] [Download] grass3.ogg 1989#：开始，起始点 0，https://download.mcbbs.net/assets/f7/f7d7e5c7089c9b45fa5d1b31542eb455fad995db
+[17:35:19.724] [Download] sand2.ogg 1990#：开始，起始点 0，https://download.mcbbs.net/assets/0f/0fa4234797f336ada4e3735e013e44d1099afe57
+[17:35:19.724] [Download] stone3.ogg 1991#：开始，起始点 0，https://download.mcbbs.net/assets/8f/8f23c02475d388b23e5faa680eafe6b991d7a9d4
+[17:35:19.724] [Download] ignite.ogg 1992#：开始，起始点 0，https://download.mcbbs.net/assets/a0/a0d1fbff7e938e92c10c1576339dda668f40e111
+[17:35:19.724] [Download] largeBlast1.ogg 1993#：开始，起始点 0，https://download.mcbbs.net/assets/ef/ef59205829f09ac4855c614a0e7046db820df18b
+[17:35:19.724] [Download] twinkle1.ogg 1994#：开始，起始点 0，https://download.mcbbs.net/assets/41/41b9c631e9c1c40800b3b02a0ac5855d6ad4846d
+[17:35:19.724] [Download] lava.ogg 1995#：开始，起始点 0，https://download.mcbbs.net/assets/92/9272aef9f27dfcc10b6e3879b7a2a67f8faa1a83
+[17:35:19.728] [Download] base.ogg 1996#：开始，起始点 0，https://download.mcbbs.net/assets/28/28f9973fcd8366ac9837dbe190b129a8fce15857
+[17:35:19.729] [Download] idle1.ogg 1997#：开始，起始点 0，https://download.mcbbs.net/assets/c3/c3c175d70372d8448c070d0716a8d88beec8b8b7
+[17:35:19.729] [Download] idle4.ogg 1998#：开始，起始点 0，https://download.mcbbs.net/assets/a3/a323a968296882e15c743ccdc8cb8057557ae712
+[17:35:19.729] [Download] breathe1.ogg 1999#：开始，起始点 0，https://download.mcbbs.net/assets/4e/4e398c518ae706ad4d90afd6914f748faf18a7b5
+[17:35:19.729] [Download] breathe3.ogg 2000#：开始，起始点 0，https://download.mcbbs.net/assets/24/24d643885f9b83d8f034f49e2c5e00e70d4f175a
+[17:35:19.729] [Download] hit3.ogg 2001#：开始，起始点 0，https://download.mcbbs.net/assets/97/97e09d51c82b78ab82fb3a4dbbb8cd701b2d0aeb
+[17:35:19.729] [Download] hit4.ogg 2002#：开始，起始点 0，https://download.mcbbs.net/assets/3f/3f447f3e331b59ad014d9bd4a6536f98cf3a08c3
+[17:35:19.730] [Download] hiss2.ogg 2003#：开始，起始点 0，https://download.mcbbs.net/assets/06/063bf0fce35c547eb59f086dbb56c5fe329cbcf4
+[17:35:19.730] [Download] hitt2.ogg 2004#：开始，起始点 0，https://download.mcbbs.net/assets/ce/ce499da6ec5dd226d50843890ca09f16018aff9a
+[17:35:19.730] [Download] calm3.ogg 2005#：开始，起始点 0，https://download.mcbbs.net/assets/14/14ae57a6bce3d4254daa8be2b098c2d99743cc3f
+[17:35:19.730] [Download] purr2.ogg 2006#：开始，起始点 0，https://download.mcbbs.net/assets/84/847ec719ee91e28d7bf58ab39a5d8d6bd5728314
+[17:35:19.730] [Download] hal2.ogg 2007#：开始，起始点 0，https://download.mcbbs.net/assets/ce/ceaaaa1d57dfdfbb0bd4da5ea39628b42897a687
+[17:35:19.730] [Download] purr3.ogg 2008#：开始，起始点 0，https://download.mcbbs.net/assets/ee/eed7a9305f5879448bb94355f25279b4aac403b6
+[17:35:19.730] [Download] hal3.ogg 2009#：开始，起始点 0，https://download.mcbbs.net/assets/dd/dd85fb564e96ee2dbd4754f711ae9deb08a169f9
+[17:35:19.730] [Download] hurt1.ogg 2010#：开始，起始点 0，https://download.mcbbs.net/assets/31/31b52151bf2a6fa35d2d2aa72f832285d9e7d70d
+[17:35:19.731] [Download] say2.ogg 2012#：开始，起始点 0，https://download.mcbbs.net/assets/36/3660e743db2bbbcff0866d3f1e606882f1aeb6ac
+[17:35:19.731] [Download] say3.ogg 2013#：开始，起始点 0，https://download.mcbbs.net/assets/49/49874e07369c3bb0bc8a2fba4f2096d2e9a36c9a
+[17:35:19.731] [Download] say1.ogg 2014#：开始，起始点 0，https://download.mcbbs.net/assets/e0/e07a2da49011ef4cf9d6b1c80a91a06f808c1243
+[17:35:19.731] [Download] say3.ogg 2015#：开始，起始点 0，https://download.mcbbs.net/assets/05/05f429069e65d78f7e6609d070a3f294cc3128ab
+[17:35:19.731] [Download] step1.ogg 2016#：开始，起始点 0，https://download.mcbbs.net/assets/fe/fec7c7997f8eb6faaebd37f0eaed417118d3a498
+[17:35:19.731] [Download] step2.ogg 2017#：开始，起始点 0，https://download.mcbbs.net/assets/55/555d33de143e6dcef2aa80ebf9a8f8b1481d42d0
+[17:35:19.734] [Download] calm2.ogg：文件大小 1976731 B（1.89 M）
+[17:35:19.736] [Download] nuance2.ogg 2011#：开始，起始点 0，https://download.mcbbs.net/assets/78/78152dc42b036e0de7616e6e669ce5a81d17f82a
+[17:35:19.747] [Download] lwjgl-platform-2.9.0-natives-windows.jar 1953#：出错，基础连接已经关闭: 发送时发生错误。
+你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+————————————
+详细错误信息：
+→ 无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。
+→ 远程主机强迫关闭了一个现有的连接。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.Sockets.SocketException
+[17:35:19.763] [Download] calm1.ogg：文件大小 2530812 B（2.41 M）
+[17:35:19.763] [Download] bd.ogg：文件大小 3850 B（3.76 K）
+[17:35:19.770] [Download] wood1.ogg：文件大小 7761 B（7.58 K）
+[17:35:19.773] [Download] howl2.ogg：文件大小 18136 B（17.7 K）
+[17:35:19.781] [Download] hal4.ogg：文件大小 2558252 B（2.44 M）
+[17:35:19.784] [Download] bowhit4.ogg：文件大小 15430 B（15.1 K）
+[17:35:19.792] [Download] zpig1.ogg：文件大小 8536 B（8.34 K）
+[17:35:19.800] [Download] bd.ogg：已完成，剩余文件 436
+[17:35:19.842] [Download] step3.ogg 2019#：开始，起始点 0，https://download.mcbbs.net/assets/48/482919bc631b317422ab44af3938259bea73fe83
+[17:35:19.842] [Download] death.ogg 2020#：开始，起始点 0，https://download.mcbbs.net/assets/fb/fbc1b2c89c5c781e30d702b2885be3f485105869
+[17:35:19.843] [Download] wood4.ogg：文件大小 6817 B（6.66 K）
+[17:35:19.850] [Download] wood1.ogg：已完成，剩余文件 435
+[17:35:19.862] [Download] piano1.ogg 2021#：开始，起始点 0，https://download.mcbbs.net/assets/0f/0f374764aafba398f4ba90dba05a53a9e6166138
+[17:35:19.867] [Download] grass3.ogg：文件大小 7194 B（7.03 K）
+[17:35:19.868] [Download] zpig1.ogg：已完成，剩余文件 434
+[17:35:19.898] [Download] stone3.ogg：文件大小 6627 B（6.47 K）
+[17:35:19.903] [Download] wood4.ogg：已完成，剩余文件 433
+[17:35:19.919] [Download] calm3.ogg：文件大小 2232651 B（2.13 M）
+[17:35:19.932] [Download] sand1.ogg：文件大小 5543 B（5.41 K）
+[17:35:19.936] [Download] cave3.ogg：文件大小 50958 B（49.8 K）
+[17:35:19.957] [Download] lava.ogg：文件大小 65328 B（63.8 K）
+[17:35:19.959] [Download] bowhit4.ogg：已完成，剩余文件 432
+[17:35:19.965] [Download] say4.ogg 2022#：开始，起始点 0，https://download.mcbbs.net/assets/85/85c860ea8c55984bf6cabb75354c78f3a603f98d
+[17:35:19.965] [Download] growl1.ogg 2023#：开始，起始点 0，https://download.mcbbs.net/assets/04/049a3049a5ac8631a6c5f367b7d824fc0d8de39b
+[17:35:19.965] [Download] growl4.ogg 2024#：开始，起始点 0，https://download.mcbbs.net/assets/c8/c84b0cf222e7dcbedde8eb9deb98835032f4d402
+[17:35:19.965] [Download] hit1.ogg 2025#：开始，起始点 0，https://download.mcbbs.net/assets/ae/aedeb53dd3315f964ff4d10d0003e4c5f41d1bb0
+[17:35:19.965] [Download] wings2.ogg 2026#：开始，起始点 0，https://download.mcbbs.net/assets/7d/7d5b3b403a11b6dd4c3801c4f4c8bf7ce9a8c771
+[17:35:19.965] [Download] death.ogg 2027#：开始，起始点 0，https://download.mcbbs.net/assets/d0/d04dd6d1f050353ef9e3ba9c45f407f831903c69
+[17:35:19.975] [Download] cave6.ogg：文件大小 42176 B（41.2 K）
+[17:35:19.976] [Download] howl2.ogg：已完成，剩余文件 431
+[17:35:19.976] [Download] grass3.ogg：已完成，剩余文件 430
+[17:35:19.986] [Download] stone3.ogg：已完成，剩余文件 429
+[17:35:19.991] [Download] sand1.ogg：已完成，剩余文件 428
+[17:35:20.072] [Download] sand4.ogg：文件大小 5491 B（5.36 K）
+[17:35:20.115] [Download] piano2.ogg 2029#：开始，起始点 0，https://download.mcbbs.net/assets/98/98a918eb2694defd19726436d4b9dca9e7dd6a65
+[17:35:20.115] [Download] zpig3.ogg：文件大小 5916 B（5.78 K）
+[17:35:20.120] [Download] sand4.ogg：已完成，剩余文件 427
+[17:35:20.139] [Download] cave12.ogg：文件大小 21193 B（20.7 K）
+[17:35:20.193] [Download] zpig3.ogg：已完成，剩余文件 426
+[17:35:20.204] [Download] wood1.ogg：文件大小 6541 B（6.39 K）
+[17:35:20.218] [Download] hit1.ogg 2030#：开始，起始点 0，https://download.mcbbs.net/assets/75/753a88c1d9b3b46210c18ff07974955463edd18b
+[17:35:20.251] [Download] cave8.ogg：文件大小 49295 B（48.1 K）
+[17:35:20.259] [Download] stone1.ogg：文件大小 6695 B（6.54 K）
+[17:35:20.277] [Download] wood1.ogg：已完成，剩余文件 425
+[17:35:20.286] [Download] grass2.ogg：文件大小 7691 B（7.51 K）
+[17:35:20.316] [Download] grass3.ogg：文件大小 7194 B（7.03 K）
+[17:35:20.328] [Download] breathe3.ogg：文件大小 21883 B（21.4 K）
+[17:35:20.328] [Download] say3.ogg：文件大小 7080 B（6.91 K）
+[17:35:20.330] [Download] step1.ogg：文件大小 7411 B（7.24 K）
+[17:35:20.330] [Download] say1.ogg：文件大小 9714 B（9.49 K）
+[17:35:20.331] [Download] say3.ogg：文件大小 13330 B（13 K）
+[17:35:20.334] [Download] grass4.ogg：文件大小 7163 B（7 K）
+[17:35:20.335] [Download] hal3.ogg：文件大小 1923269 B（1.83 M）
+[17:35:20.338] [Download] cave1.ogg：文件大小 33948 B（33.2 K）
+[17:35:20.339] [Download] hit2.ogg 2032#：开始，起始点 0，https://download.mcbbs.net/assets/cf/cf60aefd0b742c3fa15e808c1a0c33aebd534cc5
+[17:35:20.339] [Download] hit3.ogg 2033#：开始，起始点 0，https://download.mcbbs.net/assets/aa/aaa8f1705c873ebc05da460657c8b83fa01ffd57
+[17:35:20.339] [Download] idle1.ogg 2034#：开始，起始点 0，https://download.mcbbs.net/assets/28/281b87984ddf8e94324bc86911a36c971cb3d831
+[17:35:20.341] [Download] stone1.ogg：已完成，剩余文件 424
+[17:35:20.341] [Download] cave6.ogg：已完成，剩余文件 423
+[17:35:20.342] [Download] stone3.ogg：文件大小 6627 B（6.47 K）
+[17:35:20.345] [Download] growl1.ogg：文件大小 26384 B（25.8 K）
+[17:35:20.362] [Download] wood4.ogg：文件大小 7608 B（7.43 K）
+[17:35:20.363] [Download] cave7.ogg：文件大小 45278 B（44.2 K）
+[17:35:20.364] [Download] hal1.ogg：文件大小 1972217 B（1.88 M）
+[17:35:20.370] [Download] snow4.ogg：文件大小 6501 B（6.35 K）
+[17:35:20.375] [Download] step2.ogg：文件大小 7885 B（7.7 K）
+[17:35:20.377] [Download] breathe1.ogg：文件大小 22308 B（21.8 K）
+[17:35:20.379] [Download] sand2.ogg：文件大小 5553 B（5.42 K）
+[17:35:20.382] [Download] base.ogg：文件大小 15354 B（15 K）
+[17:35:20.392] [Download] grass3.ogg：已完成，剩余文件 422
+[17:35:20.397] [Download] cloth1.ogg：文件大小 4832 B（4.72 K）
+[17:35:20.412] [Download] piano1.ogg：文件大小 542805 B（530 K）
+[17:35:20.414] [Download] death.ogg：文件大小 13005 B（12.7 K）
+[17:35:20.447] [Download] stone2.ogg：文件大小 6728 B（6.57 K）
+[17:35:20.449] [Download] ignite.ogg：文件大小 6418 B（6.27 K）
+[17:35:20.461] [Download] hit1.ogg：文件大小 11056 B（10.8 K）
+[17:35:20.469] [Download] hit3.ogg：文件大小 7229 B（7.06 K）
+[17:35:20.471] [Download] idle3.ogg 2036#：开始，起始点 0，https://download.mcbbs.net/assets/bc/bc4c2e76d3b5a0e6f9d5837fe82ed26e808aa918
+[17:35:20.509] [Download] say4.ogg：文件大小 7111 B（6.94 K）
+[17:35:20.513] [Download] idle1.ogg：文件大小 5708 B（5.57 K）
+[17:35:20.517] [Download] death.ogg：文件大小 16232 B（15.9 K）
+[17:35:20.555] [Download] hit4.ogg：文件大小 7383 B（7.21 K）
+[17:35:20.558] [Download] idle4.ogg：文件大小 5274 B（5.15 K）
+[17:35:20.563] [Download] hitt2.ogg：文件大小 9180 B（8.96 K）
+[17:35:20.569] [Download] growl4.ogg：文件大小 25574 B（25 K）
+[17:35:20.584] [Download] cave5.ogg：文件大小 67196 B（65.6 K）
+[17:35:20.590] [Download] wings2.ogg：文件大小 10481 B（10.2 K）
+[17:35:20.613] [Download] twinkle1.ogg：文件大小 14328 B（14 K）
+[17:35:20.614] [Download] rain4.ogg：文件大小 13955 B（13.6 K）
+[17:35:20.643] [Download] hal2.ogg：文件大小 1754429 B（1.67 M）
+[17:35:20.671] [Download] cave11.ogg：文件大小 36963 B（36.1 K）
+[17:35:20.673] [Download] step3.ogg：文件大小 7923 B（7.74 K）
+[17:35:20.679] [Download] largeBlast1.ogg：文件大小 17306 B（16.9 K）
+[17:35:20.704] [Download] say2.ogg：文件大小 9476 B（9.25 K）
+[17:35:20.755] [Download] growl1.ogg：已完成，剩余文件 421
+[17:35:20.781] [Download] piano2.ogg：文件大小 824333 B（805 K）
+[17:35:20.821] [Download] hit1.ogg：文件大小 6883 B（6.72 K）
+[17:35:20.828] [Download] purr2.ogg：文件大小 28974 B（28.3 K）
+[17:35:20.843] [Download] pack.mcmeta：文件大小 104 B（104 B）
+[17:35:20.843] [Download] drink.ogg：文件大小 7734 B（7.55 K）
+[17:35:20.846] [Download] idle5.ogg 2041#：开始，起始点 0，https://download.mcbbs.net/assets/e7/e746ec4574aaa047be3076729753c2c75fd34630
+[17:35:20.846] [Download] portal.ogg 2042#：开始，起始点 0，https://download.mcbbs.net/assets/7b/7b4b5323ef066caa1ae43cbe66fffd9dfce4ed32
+[17:35:20.854] [Download] hit3.ogg：文件大小 6564 B（6.41 K）
+[17:35:20.854] [Download] hiss2.ogg：文件大小 13451 B（13.1 K）
+[17:35:20.858] [Download] pack.mcmeta：已完成，剩余文件 420
+[17:35:20.863] [Download] idle1.ogg：文件大小 6793 B（6.63 K）
+[17:35:20.904] [Download] hit2.ogg：文件大小 6491 B（6.34 K）
+[17:35:20.906] [Download] idle5.ogg：文件大小 9108 B（8.89 K）
+[17:35:20.914] [Download] cloth1.ogg：已完成，剩余文件 419
+[17:35:20.918] [Download] drink.ogg：已完成，剩余文件 418
+[17:35:20.961] [Download] snow4.ogg：已完成，剩余文件 417
+[17:35:20.967] [Download] portal2.ogg 2043#：开始，起始点 0，https://download.mcbbs.net/assets/35/35461b6a4253db40973549e82d91f267c686be85
+[17:35:20.967] [Download] scream1.ogg 2044#：开始，起始点 0，https://download.mcbbs.net/assets/c4/c4b5265bbafbe058347058a257abe33a0afb5ab7
+[17:35:20.967] [Download] scream2.ogg 2045#：开始，起始点 0，https://download.mcbbs.net/assets/c8/c8cd465468a0fd41a1d5cc24cb499862b5ade2cb
+[17:35:20.967] [Download] scream3.ogg 2046#：开始，起始点 0，https://download.mcbbs.net/assets/db/dbab0094299eacbce86ad427edcb34b8342861af
+[17:35:20.981] [Download] hit3.ogg：已完成，剩余文件 416
+[17:35:20.986] [Download] piano3.ogg 2047#：开始，起始点 0，https://download.mcbbs.net/assets/95/9528b6a76e7bac64ca1145cc682e8a8448cc04e5
+[17:35:20.997] [Download] idle5.ogg：已完成，剩余文件 415
+[17:35:21.035] [Download] idle3.ogg：文件大小 10073 B（9.8 K）
+[17:35:21.038] [Download] piano3.ogg：文件大小 2665984 B（2.54 M）
+[17:35:21.088] [Download] sand2.ogg：已完成，剩余文件 414
+[17:35:21.099] [Download] scream4.ogg 2049#：开始，起始点 0，https://download.mcbbs.net/assets/bc/bcc73584d83225383aaa6affce905392c96afe86
+[17:35:21.166] [Download] grass2.ogg：已完成，剩余文件 413
+[17:35:21.172] [Download] portal.ogg：文件大小 10010 B（9.8 K）
+[17:35:21.198] [Download] nuance2.ogg：文件大小 219029 B（214 K）
+[17:35:21.217] [Download] say3.ogg：已完成，剩余文件 412
+[17:35:21.220] [Download] moan1.ogg 2050#：开始，起始点 0，https://download.mcbbs.net/assets/88/882d092b05faef1cfa6af43d642b9e8843f22756
+[17:35:21.220] [Download] moan3.ogg 2051#：开始，起始点 0，https://download.mcbbs.net/assets/dc/dcec2d45fbc25f74a399ec9f8001e0ecd2d5d85e
+[17:35:21.234] [Download] scream3.ogg：文件大小 9843 B（9.6 K）
+[17:35:21.239] [Download] cave11.ogg 2053#：开始，起始点 0，https://download.mcbbs.net/assets/e3/e367d1dfa1ce07374e0aeaecbfb1526142a0dcc1
+[17:35:21.239] [Download] say2.ogg：已完成，剩余文件 411
+[17:35:21.244] [Download] portal2.ogg：文件大小 7442 B（7.27 K）
+[17:35:21.309] [Download] purr3.ogg：文件大小 34965 B（34.1 K）
+[17:35:21.325] [Download] death.ogg：已完成，剩余文件 410
+[17:35:21.341] [Download] moan4.ogg 2054#：开始，起始点 0，https://download.mcbbs.net/assets/93/935f1a575322bd0ec53a919fd061321216889104
+[17:35:21.363] [Download] moan1.ogg：文件大小 7986 B（7.8 K）
+[17:35:21.382] [Download] hurt1.ogg：文件大小 7740 B（7.56 K）
+[17:35:21.421] [Download] say3.ogg：已完成，剩余文件 409
+[17:35:21.424] [Download] moan3.ogg：文件大小 8925 B（8.72 K）
+[17:35:21.459] [Download] scream4.ogg：文件大小 10411 B（10.2 K）
+[17:35:21.459] [Download] ignite.ogg：已完成，剩余文件 408
+[17:35:21.461] [Download] portal.ogg：已完成，剩余文件 407
+[17:35:21.463] [Download] idle1.ogg：已完成，剩余文件 406
+[17:35:21.466] [Download] portal2.ogg：已完成，剩余文件 405
+[17:35:21.473] [Download] moan5.ogg 2056#：开始，起始点 0，https://download.mcbbs.net/assets/48/48fc6c25d0f1c1f0edd4eaca2b6f934d4117f440
+[17:35:21.473] [Download] moan6.ogg 2057#：开始，起始点 0，https://download.mcbbs.net/assets/b3/b3f91f243eceaa25cff7488ec2dac732e22cfec3
+[17:35:21.473] [Download] scream2.ogg 2058#：开始，起始点 0，https://download.mcbbs.net/assets/57/57008a7f564443d563968fd040fc13ab226fc8d1
+[17:35:21.473] [Download] scream3.ogg 2059#：开始，起始点 0，https://download.mcbbs.net/assets/8f/8f23820fa28830dd031188c20acb35af044aedb5
+[17:35:21.473] [Download] scream5.ogg 2060#：开始，起始点 0，https://download.mcbbs.net/assets/77/77a7b79d4f2ada27640866ece1020b631f5bdc54
+[17:35:21.474] [Download] hit2.ogg 2061#：开始，起始点 0，https://download.mcbbs.net/assets/bb/bb92fd6971430a515f508a6734392511385826e1
+[17:35:21.481] [Download] scream1.ogg：文件大小 11231 B（11 K）
+[17:35:21.483] [Download] scream3.ogg：已完成，剩余文件 404
+[17:35:21.509] [Download] moan4.ogg：文件大小 9393 B（9.17 K）
+[17:35:21.510] [Download] cave11.ogg：文件大小 36963 B（36.1 K）
+[17:35:21.517] [Download] moan3.ogg：已完成，剩余文件 403
+[17:35:21.524] [Download] lava.ogg：已完成，剩余文件 402
+[17:35:21.537] [Download] scream2.ogg：文件大小 11020 B（10.8 K）
+[17:35:21.551] [Download] twinkle1.ogg：已完成，剩余文件 401
+[17:35:21.560] [Download] hit2.ogg：已完成，剩余文件 400
+[17:35:21.562] [Download] moan5.ogg：文件大小 14107 B（13.8 K）
+[17:35:21.565] [Download] idle3.ogg：已完成，剩余文件 399
+[17:35:21.581] [Download] scream3.ogg：文件大小 9399 B（9.18 K）
+[17:35:21.596] [Download] throw.ogg 2062#：开始，起始点 0，https://download.mcbbs.net/assets/60/607d51883e137d5d423dde865232ab1ee78f2694
+[17:35:21.596] [Download] walk1.ogg 2063#：开始，起始点 0，https://download.mcbbs.net/assets/4e/4e3e9f37c1e0c12c2993d25c28b89e2f0797ba5a
+[17:35:21.596] [Download] walk2.ogg 2064#：开始，起始点 0，https://download.mcbbs.net/assets/35/356fdb6192cf96aa5d5d9c76413f412f6a4d66a4
+[17:35:21.596] [Download] walk3.ogg 2065#：开始，起始点 0，https://download.mcbbs.net/assets/e0/e0672d288b09996f7c7e1a0ca696de82b7a02d18
+[17:35:21.596] [Download] walk4.ogg 2066#：开始，起始点 0，https://download.mcbbs.net/assets/88/88ae6c906f8f94add2fe904b59c94e844bbcef9a
+[17:35:21.596] [Download] big2.ogg 2067#：开始，起始点 0，https://download.mcbbs.net/assets/4c/4c4bcc6905430286f32a862ce69665c51bd9938f
+[17:35:21.614] [Download] stare.ogg 2068#：开始，起始点 0，https://download.mcbbs.net/assets/57/5738d7f49ef30adcfc4f2ab13e0b1d74f09a1289
+[17:35:21.634] [Download] moan6.ogg：文件大小 18305 B（17.9 K）
+[17:35:21.713] [Download] big2.ogg：文件大小 7931 B（7.75 K）
+[17:35:21.717] [Download] big3.ogg 2070#：开始，起始点 0，https://download.mcbbs.net/assets/d5/d5c4316d30feef5213077e3ee24a7f52c5bf6735
+[17:35:21.717] [Download] big4.ogg 2071#：开始，起始点 0，https://download.mcbbs.net/assets/a6/a63fd7965328425a0a8111640de19428d841933e
+[17:35:21.717] [Download] jump1.ogg 2072#：开始，起始点 0，https://download.mcbbs.net/assets/86/86a2a7206c769aaa9435aabba70be201cb3e3a6b
+[17:35:21.717] [Download] jump4.ogg 2073#：开始，起始点 0，https://download.mcbbs.net/assets/50/500e2543034b4c026fb175d48c47196c5d013fe8
+[17:35:21.718] [Download] small2.ogg 2074#：开始，起始点 0，https://download.mcbbs.net/assets/18/18237686efcaa1bf9084173c99d11ce0d37d4fc5
+[17:35:21.718] [Download] small4.ogg 2075#：开始，起始点 0，https://download.mcbbs.net/assets/a4/a485082ed0820eeeb9df13f84f26b14744ceeb2a
+[17:35:21.718] [Download] death.ogg 2076#：开始，起始点 0，https://download.mcbbs.net/assets/4b/4bc87ab869e17732a20c7518a327136baf5b2c26
+[17:35:21.718] [Download] step3.ogg 2077#：开始，起始点 0，https://download.mcbbs.net/assets/62/6226903c5dfd8ac388f9d64a5fa9968680ed3507
+[17:35:21.718] [Download] step5.ogg 2078#：开始，起始点 0，https://download.mcbbs.net/assets/56/56d6fd65958fb25bf9b4033a87655b591e222005
+[17:35:21.735] [Download] growl2.ogg 2079#：开始，起始点 0，https://download.mcbbs.net/assets/f5/f57577fe6915175f9e4576e8d73ad4077a381433
+[17:35:21.742] [Download] scream2.ogg：文件大小 11455 B（11.2 K）
+[17:35:21.786] [Download] walk4.ogg：文件大小 7021 B（6.86 K）
+[17:35:21.792] [Download] scream5.ogg：文件大小 11650 B（11.4 K）
+[17:35:21.850] [Download] say1.ogg 2081#：开始，起始点 0，https://download.mcbbs.net/assets/a3/a3ffeaa0a75b8d2bdc949c181a6f8db78f8976ca
+[17:35:21.850] [Download] say2.ogg 2082#：开始，起始点 0，https://download.mcbbs.net/assets/1c/1cfd864cbda555477ed9523e640de0d234c18858
+[17:35:21.850] [Download] shear.ogg 2083#：开始，起始点 0，https://download.mcbbs.net/assets/5d/5d9055cf25f126c47e18637aeef917fa1ef61a42
+[17:35:21.853] [Download] step2.ogg 2084#：开始，起始点 0，https://download.mcbbs.net/assets/59/59034eb696e186d973dcea0b162f01e38f1b4f31
+[17:35:21.853] [Download] throw.ogg：文件大小 5316 B（5.19 K）
+[17:35:21.855] [Download] step3.ogg 2085#：开始，起始点 0，https://download.mcbbs.net/assets/10/101164ea1b442a8e1e8ca181d9cef833c57d7be3
+[17:35:21.857] [Download] stare.ogg：文件大小 127738 B（125 K）
+[17:35:21.878] [Download] walk3.ogg：文件大小 6883 B（6.72 K）
+[17:35:21.926] [Download] hit2.ogg：文件大小 9140 B（8.93 K）
+[17:35:21.932] [Download] walk2.ogg：文件大小 6945 B（6.78 K）
+[17:35:21.955] [Download] growl2.ogg：文件大小 10311 B（10.1 K）
+[17:35:21.963] [Download] big4.ogg：文件大小 9871 B（9.6 K）
+[17:35:21.965] [Download] step4.ogg 2086#：开始，起始点 0，https://download.mcbbs.net/assets/6f/6ff26a1439fb6f9f353c2bd623edeb936e760855
+[17:35:21.965] [Download] hit1.ogg 2087#：开始，起始点 0，https://download.mcbbs.net/assets/84/84c3b008dc1d5e0dd5e8ad85a06eca29f0591e48
+[17:35:21.971] [Download] jump4.ogg：文件大小 12902 B（12.6 K）
+[17:35:21.991] [Download] walk1.ogg：文件大小 7064 B（6.9 K）
+[17:35:22.018] [Download] jump1.ogg：文件大小 12540 B（12.2 K）
+[17:35:22.022] [Download] death.ogg：文件大小 13694 B（13.4 K）
+[17:35:22.034] [Download] step3.ogg：文件大小 4722 B（4.61 K）
+[17:35:22.080] [Download] big3.ogg：文件大小 9436 B（9.21 K）
+[17:35:22.097] [Download] say1.ogg 2089#：开始，起始点 0，https://download.mcbbs.net/assets/51/515dffc5d6dd216550d69e61b2eb9c3593b19a20
+[17:35:22.097] [Download] say3.ogg 2090#：开始，起始点 0，https://download.mcbbs.net/assets/e7/e7f0f24c2c9f4bf83286b17109580d3e845d19e3
+[17:35:22.097] [Download] step1.ogg 2091#：开始，起始点 0，https://download.mcbbs.net/assets/76/763cc79934a572b84c371cb49afad5912f29d2f1
+[17:35:22.100] [Download] step2.ogg：文件大小 4819 B（4.71 K）
+[17:35:22.102] [Download] step5.ogg：文件大小 5493 B（5.36 K）
+[17:35:22.142] [Download] say1.ogg：文件大小 9784 B（9.6 K）
+[17:35:22.145] [Download] step3.ogg：文件大小 4843 B（4.73 K）
+[17:35:22.184] [Download] small4.ogg：文件大小 5387 B（5.26 K）
+[17:35:22.218] [Download] step3.ogg 2092#：开始，起始点 0，https://download.mcbbs.net/assets/47/47ad81223bcec870206484cd4d1a6202871df331
+[17:35:22.218] [Download] step4.ogg 2093#：开始，起始点 0，https://download.mcbbs.net/assets/a3/a342f566600caf73464323b20b7770b5b9b7893a
+[17:35:22.219] [Download] death.ogg 2094#：开始，起始点 0，https://download.mcbbs.net/assets/64/641e601132b4adb67951e0d49c1004cf1b86eff2
+[17:35:22.219] [Download] hurt1.ogg 2095#：开始，起始点 0，https://download.mcbbs.net/assets/4d/4d03069c0e14794b463f563044da46433776da60
+[17:35:22.219] [Download] hurt2.ogg 2096#：开始，起始点 0，https://download.mcbbs.net/assets/d1/d1ad2cbe6584d9cd9483483f8655966d25a251a0
+[17:35:22.219] [Download] hurt3.ogg 2097#：开始，起始点 0，https://download.mcbbs.net/assets/ac/acffab0bafe2c82ffc8723880aab5ec1682d4329
+[17:35:22.222] [Download] shear.ogg：文件大小 6870 B（6.71 K）
+[17:35:22.228] [Download] small2.ogg：文件大小 5518 B（5.39 K）
+[17:35:22.230] [Download] wood3.ogg 2099#：开始，起始点 0，https://download.mcbbs.net/assets/81/8184e851170619de93aa56244fb12c472a2ddd7d
+[17:35:22.255] [Download] step4.ogg：文件大小 5018 B（4.9 K）
+[17:35:22.260] [Download] hit1.ogg：文件大小 7371 B（7.2 K）
+[17:35:22.262] [Download] say2.ogg：文件大小 8875 B（8.67 K）
+[17:35:22.340] [Download] say1.ogg 2102#：开始，起始点 0，https://download.mcbbs.net/assets/19/199c9f150822950385b9bc1d840605a6a795bd27
+[17:35:22.340] [Download] say2.ogg 2103#：开始，起始点 0，https://download.mcbbs.net/assets/52/529abcb09220f0ebeb595f32bb663d026a7e0ae5
+[17:35:22.340] [Download] step1.ogg 2104#：开始，起始点 0，https://download.mcbbs.net/assets/68/68e0a58848bbdad12ad2b216d7244754459c9516
+[17:35:22.340] [Download] step2.ogg 2105#：开始，起始点 0，https://download.mcbbs.net/assets/46/4609ec723b4e724f44c653b82de40ec159d2eea1
+[17:35:22.341] [Download] step3.ogg 2106#：开始，起始点 0，https://download.mcbbs.net/assets/00/000c82756fd54e40cb236199f2b479629d0aca2f
+[17:35:22.341] [Download] step4.ogg 2107#：开始，起始点 0，https://download.mcbbs.net/assets/a8/a89bdd809baa83cacd329f0219bca1f612ccda5a
+[17:35:22.341] [Download] big1.ogg 2108#：开始，起始点 0，https://download.mcbbs.net/assets/b5/b5eca1979e69271b2065ac67ba2c37b5afac0f98
+[17:35:22.341] [Download] big4.ogg 2109#：开始，起始点 0，https://download.mcbbs.net/assets/c9/c906c18d26550ae15c75e23f2c5066e4fc678c89
+[17:35:22.341] [Download] small1.ogg 2110#：开始，起始点 0，https://download.mcbbs.net/assets/5c/5cde2500773323f7997d75062f8a26afcdf62b2e
+[17:35:22.342] [Download] small4.ogg 2111#：开始，起始点 0，https://download.mcbbs.net/assets/4d/4dfe0b607c5de2e47f3b7950c56bbebbf3115957
+[17:35:22.362] [Download] bass.ogg 2112#：开始，起始点 0，https://download.mcbbs.net/assets/e2/e28d844995368de1d45c724a5d371c9952ae5ed4
+[17:35:22.376] [Download] say1.ogg：文件大小 6584 B（6.43 K）
+[17:35:22.474] [Download] small5.ogg 2114#：开始，起始点 0，https://download.mcbbs.net/assets/35/35f0b3c9c462a6c21ec213fbda2437a0e6427883
+[17:35:22.474] [Download] say1.ogg 2115#：开始，起始点 0，https://download.mcbbs.net/assets/65/65b49739d48ebc47879ca5528c8283329980b304
+[17:35:22.474] [Download] say2.ogg 2116#：开始，起始点 0，https://download.mcbbs.net/assets/50/501b40b97ee55cb7a97943ee620aa05131089fc2
+[17:35:22.474] [Download] say3.ogg 2117#：开始，起始点 0，https://download.mcbbs.net/assets/f9/f9f79162efa6667b753c1fbb46ff9888e8ce5f32
+[17:35:22.474] [Download] step2.ogg 2118#：开始，起始点 0，https://download.mcbbs.net/assets/a8/a8eb0b1ce4abb53334ab75be82dc465135c4a27a
+[17:35:22.475] [Download] death.ogg 2119#：开始，起始点 0，https://download.mcbbs.net/assets/ae/ae27c6817985a9acb0a0fdefab89ff5d82dbe009
+[17:35:22.475] [Download] hurt1.ogg 2120#：开始，起始点 0，https://download.mcbbs.net/assets/55/550da80d936e05a7bfda43ca5d8af5b3779320f1
+[17:35:22.475] [Download] hurt2.ogg 2121#：开始，起始点 0，https://download.mcbbs.net/assets/80/8072827813f0bffb9847e636245edebb5ddab198
+[17:35:22.475] [Download] hurt3.ogg：文件大小 8572 B（8.37 K）
+[17:35:22.483] [Download] pling.ogg 2122#：开始，起始点 0，https://download.mcbbs.net/assets/20/20d06589bd5ab81a73989bdac8ca59ecd4d66932
+[17:35:22.494] [Download] step1.ogg：文件大小 8382 B（8.19 K）
+[17:35:22.504] [Download] bass.ogg：文件大小 5479 B（5.35 K）
+[17:35:22.526] [Download] say2.ogg：文件大小 8485 B（8.29 K）
+[17:35:22.540] [Download] big1.ogg：文件大小 10917 B（10.7 K）
+[17:35:22.549] [Download] death.ogg：文件大小 17073 B（16.7 K）
+[17:35:22.559] [Download] say3.ogg：文件大小 7060 B（6.89 K）
+[17:35:22.584] [Download] step3.ogg：文件大小 8565 B（8.36 K）
+[17:35:22.596] [Download] hurt3.ogg 2123#：开始，起始点 0，https://download.mcbbs.net/assets/a4/a4cf4ebe4c475cd6a4852d6b4228a4b64cf5cb00
+[17:35:22.596] [Download] idle2.ogg 2124#：开始，起始点 0，https://download.mcbbs.net/assets/6b/6b2f86a35a3cd88320b55c029d77659915f83239
+[17:35:22.596] [Download] shoot.ogg 2125#：开始，起始点 0，https://download.mcbbs.net/assets/78/78ee5b46b6615191b7a16d259fcbda273762297e
+[17:35:22.596] [Download] spawn.ogg 2126#：开始，起始点 0，https://download.mcbbs.net/assets/d8/d8caaead680c20a4f51361587aeddd57a3357a72
+[17:35:22.596] [Download] death.ogg 2127#：开始，起始点 0，https://download.mcbbs.net/assets/77/77a5d445ed9ee588846947ac3df63f84be6d569d
+[17:35:22.597] [Download] howl2.ogg 2128#：开始，起始点 0，https://download.mcbbs.net/assets/cd/cdb0293c5e2bdbda21798af4e61a4c171c8b1ec0
+[17:35:22.597] [Download] hurt1.ogg 2129#：开始，起始点 0，https://download.mcbbs.net/assets/71/71b5fc7aa050892f8c9a9ed2713cc1ad8874742a
+[17:35:22.599] [Download] say1.ogg：文件大小 8727 B（8.52 K）
+[17:35:22.605] [Download] hurt2.ogg：文件大小 7798 B（7.62 K）
+[17:35:22.610] [Download] wood3.ogg：文件大小 8090 B（7.9 K）
+[17:35:22.615] [Download] snare.ogg 2130#：开始，起始点 0，https://download.mcbbs.net/assets/69/6967f0af60f480e81d32f1f8e5f88ccafec3a40c
+[17:35:22.615] [Download] portal.ogg 2131#：开始，起始点 0，https://download.mcbbs.net/assets/9a/9a20be18fed05330f745a54eb8aeba11aac5403b
+[17:35:22.645] [Download] say3.ogg：文件大小 7709 B（7.53 K）
+[17:35:22.661] [Download] small1.ogg：文件大小 6269 B（6.12 K）
+[17:35:22.664] [Download] step3.ogg：文件大小 9308 B（9.09 K）
+[17:35:22.718] [Download] hurt2.ogg 2133#：开始，起始点 0，https://download.mcbbs.net/assets/bc/bc2f6a5a1b6646eac1681b7414b098089aedf3c6
+[17:35:22.718] [Download] panting.ogg 2134#：开始，起始点 0，https://download.mcbbs.net/assets/c2/c2e4001d9ae8fc1f066a914170faad4c45a84e1e
+[17:35:22.718] [Download] step1.ogg 2135#：开始，起始点 0，https://download.mcbbs.net/assets/b6/b6a62224be809aa0c0747bee94499f0ee51ca2b6
+[17:35:22.718] [Download] step2.ogg 2136#：开始，起始点 0，https://download.mcbbs.net/assets/4b/4ba55627b6b9ce64b4a48a00c990d5855b6064cf
+[17:35:22.729] [Download] hurt1.ogg：文件大小 9986 B（9.8 K）
+[17:35:22.736] [Download] travel.ogg 2137#：开始，起始点 0，https://download.mcbbs.net/assets/43/43388701fac432a567fe9fec421521e6348ad780
+[17:35:22.760] [Download] step4.ogg：文件大小 8842 B（8.63 K）
+[17:35:22.762] [Download] idle2.ogg：文件大小 19332 B（18.9 K）
+[17:35:22.785] [Download] step2.ogg：文件大小 8333 B（8.14 K）
+[17:35:22.826] [Download] step4.ogg：文件大小 8508 B（8.31 K）
+[17:35:22.828] [Download] hurt2.ogg：文件大小 16744 B（16.4 K）
+[17:35:22.839] [Download] whine.ogg 2139#：开始，起始点 0，https://download.mcbbs.net/assets/fc/fcf4f90c452b7b511d50e3959ae05036d13a7cf8
+[17:35:22.839] [Download] death.ogg 2140#：开始，起始点 0，https://download.mcbbs.net/assets/6e/6e0488ab07b9539fbaebc093f194bb6a95b2caec
+[17:35:22.839] [Download] hurt2.ogg 2141#：开始，起始点 0，https://download.mcbbs.net/assets/bc/bc85d96a99e84a234cbe23841f87e84e71198be3
+[17:35:22.839] [Download] metal2.ogg 2142#：开始，起始点 0，https://download.mcbbs.net/assets/6c/6c5a03460012d7b76c16d0dbaa01c443a6ba094e
+[17:35:22.860] [Download] bow.ogg 2143#：开始，起始点 0，https://download.mcbbs.net/assets/87/87edc11141fb5a045f2ed830b545aaa73f96ee99
+[17:35:22.864] [Download] shoot.ogg：文件大小 11481 B（11.2 K）
+[17:35:22.866] [Download] small5.ogg：文件大小 4826 B（4.71 K）
+[17:35:22.871] [Download] small4.ogg：文件大小 5387 B（5.26 K）
+[17:35:22.908] [Download] hurt1.ogg：文件大小 16650 B（16.3 K）
+[17:35:22.922] [Download] step2.ogg：文件大小 9695 B（9.47 K）
+[17:35:22.931] [Download] snare.ogg：文件大小 3969 B（3.88 K）
+[17:35:22.932] [Download] big4.ogg：文件大小 9871 B（9.6 K）
+[17:35:22.942] [Download] say1.ogg：文件大小 9045 B（8.83 K）
+[17:35:22.971] [Download] remedy.ogg 2144#：开始，起始点 0，https://download.mcbbs.net/assets/8e/8ed3945df8b9264c6451c153357475482d9f2066
+[17:35:22.971] [Download] say1.ogg 2145#：开始，起始点 0，https://download.mcbbs.net/assets/b5/b5bc9775243437d87317ab3a66ec8a4d5b96c83d
+[17:35:22.971] [Download] say2.ogg 2146#：开始，起始点 0，https://download.mcbbs.net/assets/bf/bf5086623d5c6735271074b263116fb914ed79b5
+[17:35:22.971] [Download] step1.ogg 2147#：开始，起始点 0，https://download.mcbbs.net/assets/96/9680c9dcd637ddea8e10a0d73705aa155d04a132
+[17:35:22.971] [Download] step2.ogg 2148#：开始，起始点 0，https://download.mcbbs.net/assets/e8/e8dcca0e494a3f479f58f581c9a8e297cc92f4e7
+[17:35:22.987] [Download] step2.ogg：文件大小 4766 B（4.65 K）
+[17:35:22.991] [Download] step1.ogg：文件大小 8444 B（8.25 K）
+[17:35:22.993] [Download] hurt1.ogg：文件大小 6164 B（6.02 K）
+[17:35:22.995] [Download] say2.ogg：文件大小 7405 B（7.23 K）
+[17:35:22.999] [Download] pling.ogg：文件大小 6274 B（6.13 K）
+[17:35:23.044] [Download] hurt2.ogg：文件大小 6082 B（5.94 K）
+[17:35:23.057] [Download] hurt3.ogg：文件大小 16731 B（16.3 K）
+[17:35:23.082] [Download] step1.ogg：文件大小 4777 B（4.67 K）
+[17:35:23.092] [Download] wood1.ogg 2150#：开始，起始点 0，https://download.mcbbs.net/assets/fa/fa73977dd28020544f7fe2553e5604a6865ec1a6
+[17:35:23.092] [Download] wood2.ogg 2151#：开始，起始点 0，https://download.mcbbs.net/assets/dc/dc86fbd59cf0e87cd35b22df2a2df899ab8c1f7f
+[17:35:23.092] [Download] wood3.ogg 2152#：开始，起始点 0，https://download.mcbbs.net/assets/81/8184e851170619de93aa56244fb12c472a2ddd7d
+[17:35:23.097] [Download] zpig1.ogg 2153#：开始，起始点 0，https://download.mcbbs.net/assets/ec/ec4b0396dd2fc2da8fab91ddc35218d3426349b3
+[17:35:23.099] [Download] zpig2.ogg 2154#：开始，起始点 0，https://download.mcbbs.net/assets/2c/2cbbcdfb97939c469cd4ccaaac74504497c56695
+[17:35:23.131] [Download] death.ogg：文件大小 7474 B（7.3 K）
+[17:35:23.134] [Download] say2.ogg：文件大小 15423 B（15.1 K）
+[17:35:23.167] [Download] metal2.ogg：文件大小 8889 B（8.68 K）
+[17:35:23.176] [Download] death.ogg：文件大小 62674 B（61.2 K）
+[17:35:23.186] [Download] portal.ogg：文件大小 25153 B（24.6 K）
+[17:35:23.191] [Download] step1.ogg：文件大小 13871 B（13.5 K）
+[17:35:23.220] [Download] zpig3.ogg 2155#：开始，起始点 0，https://download.mcbbs.net/assets/c9/c9f7fa36ae48eca0a1f6ce024fde5d3472d30b4d
+[17:35:23.220] [Download] zpigangry1.ogg 2156#：开始，起始点 0，https://download.mcbbs.net/assets/ca/cadbc5c34979baab1a93f5cf68a50f9bd44ef5a8
+[17:35:23.220] [Download] zpigangry3.ogg 2157#：开始，起始点 0，https://download.mcbbs.net/assets/e0/e0c88ca054666aae58b89abdcf377eae525aa13e
+[17:35:23.220] [Download] zpigangry4.ogg 2158#：开始，起始点 0，https://download.mcbbs.net/assets/c7/c76dea473821e2ae9a1f006a4eddfdd0703eecdf
+[17:35:23.221] [Download] zpighurt1.ogg 2159#：开始，起始点 0，https://download.mcbbs.net/assets/a2/a2cfbea288280419ec0c8fb75d8ee5395536ac02
+[17:35:23.221] [Download] zpighurt2.ogg 2160#：开始，起始点 0，https://download.mcbbs.net/assets/d1/d1917b9be91d60a40dd0bf804580c1f494e9ae6d
+[17:35:23.226] [Download] death.ogg：文件大小 9836 B（9.6 K）
+[17:35:23.236] [Download] say1.ogg：文件大小 16877 B（16.5 K）
+[17:35:23.269] [Download] whine.ogg：文件大小 7846 B（7.66 K）
+[17:35:23.342] [Download] bd.ogg 2162#：开始，起始点 0，https://download.mcbbs.net/assets/1a/1afefaa39a53606d2737bab9cb3409350cb2dc9f
+[17:35:23.351] [Download] howl2.ogg：文件大小 18136 B（17.7 K）
+[17:35:23.352] [Download] hurt2.ogg：文件大小 11005 B（10.7 K）
+[17:35:23.355] [Download] drr.ogg 2163#：开始，起始点 0，https://download.mcbbs.net/assets/40/40a5a4307c1a2a5a1b9f71254275689845374104
+[17:35:23.379] [Download] wood3.ogg：文件大小 8090 B（7.9 K）
+[17:35:23.404] [Download] panting.ogg：文件大小 7380 B（7.21 K）
+[17:35:23.409] [Download] spawn.ogg：文件大小 151896 B（148 K）
+[17:35:23.425] [Download] zpig3.ogg：文件大小 5916 B（5.78 K）
+[17:35:23.427] [Download] remedy.ogg：文件大小 38114 B（37.2 K）
+[17:35:23.474] [Download] harp.ogg 2165#：开始，起始点 0，https://download.mcbbs.net/assets/46/46244605b8663a29cdce7bccc5b2d038241e32ee
+[17:35:23.474] [Download] hat.ogg 2166#：开始，起始点 0，https://download.mcbbs.net/assets/fd/fd2b6f745b05a2cf44a4e010f72631de2e5099f6
+[17:35:23.474] [Download] pling.ogg 2167#：开始，起始点 0，https://download.mcbbs.net/assets/20/20d06589bd5ab81a73989bdac8ca59ecd4d66932
+[17:35:23.474] [Download] snare.ogg 2168#：开始，起始点 0，https://download.mcbbs.net/assets/69/6967f0af60f480e81d32f1f8e5f88ccafec3a40c
+[17:35:23.474] [Download] travel.ogg 2169#：开始，起始点 0，https://download.mcbbs.net/assets/43/43388701fac432a567fe9fec421521e6348ad780
+[17:35:23.475] [Download] trigger.ogg 2170#：开始，起始点 0，https://download.mcbbs.net/assets/30/301f32642b654addbd06a430768fead464fd24c4
+[17:35:23.479] [Download] zpigangry3.ogg：文件大小 9061 B（8.85 K）
+[17:35:23.486] [Download] travel.ogg：文件大小 54283 B（53 K）
+[17:35:23.488] [Download] wood2.ogg：文件大小 7649 B（7.47 K）
+[17:35:23.545] [Download] zpigangry1.ogg：文件大小 8946 B（8.74 K）
+[17:35:23.550] [Download] zpig1.ogg：文件大小 8536 B（8.34 K）
+[17:35:23.559] [Download] zpig2.ogg：文件大小 10038 B（9.8 K）
+[17:35:23.594] [Download] bow.ogg：文件大小 6658 B（6.5 K）
+[17:35:23.596] [Download] anvil_land.ogg 2171#：开始，起始点 0，https://download.mcbbs.net/assets/93/934b16e82b94d5790175615303594f0ec28da4a0
+[17:35:23.596] [Download] bowhit2.ogg 2172#：开始，起始点 0，https://download.mcbbs.net/assets/c3/c3cd0db760c980287b26ef9c0894f66c4250724e
+[17:35:23.596] [Download] bowhit3.ogg 2173#：开始，起始点 0，https://download.mcbbs.net/assets/03/0369a1236a4b9ca219fd3ad7d19d0b5237510b1e
+[17:35:23.596] [Download] bowhit4.ogg 2174#：开始，起始点 0，https://download.mcbbs.net/assets/9e/9e5e2369fc354a082c861494cfe8767d327813d4
+[17:35:23.596] [Download] break.ogg 2175#：开始，起始点 0，https://download.mcbbs.net/assets/8b/8bf3ecb0fe9a6a615f5995e3dd21b6c39adc21d5
+[17:35:23.596] [Download] drink.ogg 2176#：开始，起始点 0，https://download.mcbbs.net/assets/85/857b75738992d25e338dee640ab191323bcbf798
+[17:35:23.600] [Download] zpighurt2.ogg：文件大小 6245 B（6.1 K）
+[17:35:23.614] [Download] eat2.ogg 2177#：开始，起始点 0，https://download.mcbbs.net/assets/d2/d26bde554d88f0ca156baf471c44ce2c0e68176c
+[17:35:23.626] [Download] zpighurt1.ogg：文件大小 6935 B（6.77 K）
+[17:35:23.677] [Download] step2.ogg：文件大小 12214 B（11.9 K）
+[17:35:23.700] [Download] harp.ogg：文件大小 6137 B（5.99 K）
+[17:35:23.719] [Download] eat1.ogg 2179#：开始，起始点 0，https://download.mcbbs.net/assets/df/dfee39084c771182f6b9e7cfb8c8bc4e255747bc
+[17:35:23.719] [Download] explode1.ogg 2181#：开始，起始点 0，https://download.mcbbs.net/assets/cd/cd46e41023887558b134547e28327de6e7df189a
+[17:35:23.719] [Download] explode2.ogg 2182#：开始，起始点 0，https://download.mcbbs.net/assets/a1/a116e396d95a0ee245000dd4cdcc333d38ea9e3b
+[17:35:23.723] [Download] explode3.ogg 2183#：开始，起始点 0，https://download.mcbbs.net/assets/a9/a94a69e56568f5789cab05382cfd81f601189fd1
+[17:35:23.723] [Download] fuse.ogg 2184#：开始，起始点 0，https://download.mcbbs.net/assets/a9/a92ba2b8f6abc41aa8d679ad808a81d0aafa04b2
+[17:35:23.725] [Download] glass3.ogg 2185#：开始，起始点 0，https://download.mcbbs.net/assets/ad/ad7d770b7fff3b64121f75bd60cecfc4866d1cd6
+[17:35:23.725] [Download] splash.ogg 2186#：开始，起始点 0，https://download.mcbbs.net/assets/22/22a491f266f5c3cdd6e669a9493daaf40c9c8575
+[17:35:23.725] [Download] wood click.ogg 2187#：开始，起始点 0，https://download.mcbbs.net/assets/b2/b210a3c371441b77fe873133b2cb7b63e367b2f3
+[17:35:23.725] [Download] cloth1.ogg 2188#：开始，起始点 0，https://download.mcbbs.net/assets/5f/5fd568d724ba7d53911b6cccf5636f859d2662e8
+[17:35:23.725] [Download] cloth3.ogg 2189#：开始，起始点 0，https://download.mcbbs.net/assets/9c/9c63f2a3681832dc32d206f6830360bfe94b5bfc
+[17:35:23.725] [Download] cloth4.ogg 2190#：开始，起始点 0，https://download.mcbbs.net/assets/55/55da1856e77cfd31a7e8c3d358e1f856c5583198
+[17:35:23.725] [Download] grass2.ogg 2191#：开始，起始点 0，https://download.mcbbs.net/assets/5c/5c971029d9284676dce1dda2c9d202f8c47163b2
+[17:35:23.735] [Download] eat3.ogg 2192#：开始，起始点 0，https://download.mcbbs.net/assets/9f/9f2c4bab5ed55f1714fffa223985c81babc8f6c0
+[17:35:23.735] [Download] glass2.ogg 2193#：开始，起始点 0，https://download.mcbbs.net/assets/87/87c47bda3645c68f18a49e83cbf06e5302d087ff
+[17:35:23.735] [Download] hurt.ogg 2194#：开始，起始点 0，https://download.mcbbs.net/assets/9d/9d485556b89bf776042080774679c37300bc744b
+[17:35:23.737] [Download] bowhit2.ogg：文件大小 10640 B（10.4 K）
+[17:35:23.748] [Download] zpigangry4.ogg：文件大小 9925 B（9.7 K）
+[17:35:23.754] [Download] wood1.ogg：文件大小 7761 B（7.58 K）
+[17:35:23.828] [Download] bowhit3.ogg：文件大小 13252 B（12.9 K）
+[17:35:23.846] [Download] grass4.ogg 2198#：开始，起始点 0，https://download.mcbbs.net/assets/bc/bc28801224a0aa77fdc93bb7c6c94beacdf77331
+[17:35:23.846] [Download] grass6.ogg 2199#：开始，起始点 0，https://download.mcbbs.net/assets/b8/b88cafe403394cdcd4de0e3aeb7b76f24170c6fe
+[17:35:23.846] [Download] gravel4.ogg 2200#：开始，起始点 0，https://download.mcbbs.net/assets/a4/a47adece748059294c5f563c0fcac02fa0e4bab4
+[17:35:23.846] [Download] ladder1.ogg 2201#：开始，起始点 0，https://download.mcbbs.net/assets/d6/d6212a1d5feb88d76b9a83ce5a27ab4e6d4c20bb
+[17:35:23.846] [Download] ladder2.ogg 2202#：开始，起始点 0，https://download.mcbbs.net/assets/fd/fd446ad40d24edfe4fb789a6065276e164ea4b61
+[17:35:23.847] [Download] ladder5.ogg 2203#：开始，起始点 0，https://download.mcbbs.net/assets/e9/e9a1caaddcde79cdac7aa8eabde50d4cfd1bc578
+[17:35:23.847] [Download] sand3.ogg 2204#：开始，起始点 0，https://download.mcbbs.net/assets/ab/ab07279288fa49215bada5c17627e6a54ad0437c
+[17:35:23.847] [Download] snow1.ogg 2205#：开始，起始点 0，https://download.mcbbs.net/assets/e9/e9bab7d3d15541f0aaa93fad31ad37fd07e03a6c
+[17:35:23.861] [Download] travel.ogg：文件大小 54283 B（53 K）
+[17:35:23.866] [Download] eat2.ogg：文件大小 5677 B（5.54 K）
+[17:35:23.888] [Download] explode1.ogg：文件大小 19732 B（19.3 K）
+[17:35:23.903] [Download] hat.ogg：文件大小 3880 B（3.79 K）
+[17:35:23.926] [Download] bd.ogg：文件大小 3850 B（3.76 K）
+[17:35:23.936] [Download] explode2.ogg：文件大小 25246 B（24.7 K）
+[17:35:23.957] [Download] drr.ogg：文件大小 12966 B（12.7 K）
+[17:35:23.957] [Download] trigger.ogg：文件大小 24992 B（24.4 K）
+[17:35:23.959] [Download] grass2.ogg：文件大小 8131 B（7.94 K）
+[17:35:23.968] [Download] snow4.ogg 2206#：开始，起始点 0，https://download.mcbbs.net/assets/e2/e26fa3036cdab4c2264ceb19e1cd197a2a510227
+[17:35:23.968] [Download] stone1.ogg 2207#：开始，起始点 0，https://download.mcbbs.net/assets/4a/4a2e3795ffd4d3aab0834b7e41903af3a8f7d197
+[17:35:23.968] [Download] stone2.ogg 2208#：开始，起始点 0，https://download.mcbbs.net/assets/22/22a383d9c22342305a4f16fec0bb479a885f8da2
+[17:35:23.968] [Download] stone3.ogg 2209#：开始，起始点 0，https://download.mcbbs.net/assets/a5/a533e7ae975e62592de868e0d0572778614bd587
+[17:35:23.968] [Download] stone5.ogg 2210#：开始，起始点 0，https://download.mcbbs.net/assets/48/48dd05ab2e4626d74206c2b09a628a3d59ce15e9
+[17:35:23.969] [Download] wood2.ogg 2211#：开始，起始点 0，https://download.mcbbs.net/assets/1e/1e82a43c30cf8fcbe05d0bc2760ecba5d2320314
+[17:35:24.042] [Download] cloth4.ogg：文件大小 4844 B（4.73 K）
+[17:35:24.058] [Download] grass6.ogg：文件大小 7709 B（7.53 K）
+[17:35:24.067] [Download] anvil_land.ogg：文件大小 9210 B（8.99 K）
+[17:35:24.077] [Download] cloth3.ogg：文件大小 4897 B（4.78 K）
+[17:35:24.086] [Download] pling.ogg：文件大小 6274 B（6.13 K）
+[17:35:24.089] [Download] wood6.ogg 2213#：开始，起始点 0，https://download.mcbbs.net/assets/94/944bc8b8e1e135340dc4afc6d3416a01222674a1
+[17:35:24.090] [Download] splash.ogg：文件大小 11333 B（11.1 K）
+[17:35:24.094] [Download] snare.ogg：文件大小 3969 B（3.88 K）
+[17:35:24.110] [Download] cloth2.ogg 2214#：开始，起始点 0，https://download.mcbbs.net/assets/56/56c1d0ac0de2265018b2c41cb571cc6631101484
+[17:35:24.134] [Download] eat3.ogg：文件大小 5813 B（5.68 K）
+[17:35:24.137] [Download] eat2.ogg：文件大小 5677 B（5.54 K）
+[17:35:24.143] [Download] ladder1.ogg：文件大小 6021 B（5.88 K）
+[17:35:24.144] [Download] hurt.ogg：文件大小 11499 B（11.2 K）
+[17:35:24.154] [Download] cloth1.ogg：文件大小 4832 B（4.72 K）
+[17:35:24.183] [Download] bowhit4.ogg：文件大小 15430 B（15.1 K）
+[17:35:24.188] [Download] drink.ogg：文件大小 7734 B（7.55 K）
+[17:35:24.211] [Download] eat1.ogg：文件大小 5678 B（5.54 K）
+[17:35:24.214] [Download] gravel4.ogg：文件大小 8075 B（7.89 K）
+[17:35:24.221] [Download] in.ogg 2215#：开始，起始点 0，https://download.mcbbs.net/assets/59/594be3eaea9a2b92095eeeb3b1e01e755dcb8ce2
+[17:35:24.221] [Download] 11.mus 2216#：开始，起始点 0，https://download.mcbbs.net/assets/d5/d5ce66b3787648036b29c504786bcc237cd316d3
+[17:35:24.221] [Download] 13.mus 2217#：开始，起始点 0，https://download.mcbbs.net/assets/c3/c343dc04df647fb25bec35ee23dc973e7374dcf9
+[17:35:24.221] [Download] 13.ogg 2218#：开始，起始点 0，https://download.mcbbs.net/assets/9c/9cbed0e40296f68c61090c9b81816061e068a0ec
+[17:35:24.221] [Download] cat.ogg 2219#：开始，起始点 0，https://download.mcbbs.net/assets/d1/d1eb3d2e39bf1f6289cfcbca44e1c9bb508b20f0
+[17:35:24.222] [Download] mellohi.mus 2220#：开始，起始点 0，https://download.mcbbs.net/assets/7c/7c5b628070ce191762b972fc3a58d57bc10a628a
+[17:35:24.222] [Download] wait.mus 2221#：开始，起始点 0，https://download.mcbbs.net/assets/a9/a96c409e8d54d95520cf6d2caa583b5667e2dc63
+[17:35:24.222] [Download] lwjgl-2.9.0.jar 2222#：开始，起始点 0，https://download.mcbbs.net/maven/org/lwjgl/lwjgl/lwjgl/2.9.0/lwjgl-2.9.0.jar
+[17:35:24.222] [Download] lwjgl-platform-2.9.0-natives-windows.jar 2223#：开始，起始点 0，https://download.mcbbs.net/maven/org/lwjgl/lwjgl/lwjgl-platform/2.9.0/lwjgl-platform-2.9.0-natives-windows.jar
+[17:35:24.235] [Download] break.ogg：文件大小 6551 B（6.4 K）
+[17:35:24.263] [Download] glass3.ogg：文件大小 7592 B（7.41 K）
+[17:35:24.266] [Download] sand3.ogg：文件大小 5144 B（5.02 K）
+[17:35:24.276] [Download] snow1.ogg：文件大小 6532 B（6.38 K）
+[17:35:24.290] [Download] grass4.ogg：文件大小 7377 B（7.2 K）
+[17:35:24.324] [Download] glass2.ogg：文件大小 7532 B（7.36 K）
+[17:35:24.329] [Download] stone1.ogg：文件大小 8012 B（7.82 K）
+[17:35:24.331] [Download] explode3.ogg：文件大小 25298 B（24.7 K）
+[17:35:24.373] [Download] wait.mus：文件大小 1845255 B（1.76 M）
+[17:35:24.384] [Download] stone5.ogg：文件大小 7752 B（7.57 K）
+[17:35:24.387] [Download] fuse.ogg：文件大小 29271 B（28.6 K）
+[17:35:24.396] [Download] ladder5.ogg：文件大小 6077 B（5.93 K）
+[17:35:24.421] [Download] stone2.ogg：文件大小 7086 B（6.92 K）
+[17:35:24.443] [Download] wood click.ogg：文件大小 4385 B（4.28 K）
+[17:35:24.445] [Download] 13.mus：文件大小 1071028 B（1.02 M）
+[17:35:24.445] [Download] 11.mus：文件大小 591997 B（578 K）
+[17:35:24.449] [Download] wood2.ogg：文件大小 9150 B（8.94 K）
+[17:35:24.486] [Download] cloth3.ogg 2233#：开始，起始点 0，https://download.mcbbs.net/assets/9c/9c63f2a3681832dc32d206f6830360bfe94b5bfc
+[17:35:24.486] [Download] cloth4.ogg 2234#：开始，起始点 0，https://download.mcbbs.net/assets/55/55da1856e77cfd31a7e8c3d358e1f856c5583198
+[17:35:24.486] [Download] grass1.ogg 2235#：开始，起始点 0，https://download.mcbbs.net/assets/41/41cbf5dd08e951ad65883854e74d2e034929f572
+[17:35:24.486] [Download] grass2.ogg 2236#：开始，起始点 0，https://download.mcbbs.net/assets/86/86cb1bb0c45625b18e00a64098cd425a38f6d3f2
+[17:35:24.487] [Download] cat.ogg：文件大小 1286636 B（1.23 M）
+[17:35:24.539] [Download] stone3.ogg：文件大小 6631 B（6.48 K）
+[17:35:24.548] [Download] cloth2.ogg：文件大小 4862 B（4.75 K）
+[17:35:24.559] [Download] ladder2.ogg：文件大小 6125 B（5.98 K）
+[17:35:24.563] [Download] wood6.ogg：文件大小 9093 B（8.88 K）
+[17:35:24.611] [Download] gravel2.ogg 2237#：开始，起始点 0，https://download.mcbbs.net/assets/c3/c3b3797d04cb9640e1d3a72d5e96edb410388fa3
+[17:35:24.611] [Download] gravel3.ogg 2238#：开始，起始点 0，https://download.mcbbs.net/assets/48/48f7e1bb098abd36b9760cca27b9d4391a23de26
+[17:35:24.652] [Download] mellohi.mus：文件大小 663709 B（648 K）
+[17:35:24.666] [Download] in.ogg：文件大小 5900 B（5.76 K）
+[17:35:24.691] [Download] snow4.ogg：文件大小 6501 B（6.35 K）
+[17:35:24.712] [Download] lwjgl-platform-2.9.0-natives-windows.jar：文件大小 609967 B（596 K）
+[17:35:24.731] [Download] snow1.ogg 2242#：开始，起始点 0，https://download.mcbbs.net/assets/e9/e9bab7d3d15541f0aaa93fad31ad37fd07e03a6c
+[17:35:24.731] [Download] snow3.ogg 2243#：开始，起始点 0，https://download.mcbbs.net/assets/a4/a4bc069321a96236fde04a3820664cc23b2ea619
+[17:35:24.731] [Download] wood3.ogg 2244#：开始，起始点 0，https://download.mcbbs.net/assets/45/45b2aef7b5049e81b39b58f8d631563fadcc778b
+[17:35:24.731] [Download] wood4.ogg 2245#：开始，起始点 0，https://download.mcbbs.net/assets/dc/dc66978374a46ab2b87db6472804185824868095
+[17:35:24.732] [Download] out.ogg 2246#：开始，起始点 0，https://download.mcbbs.net/assets/cb/cb017131516de9359cb81fb991f5b3694044f8db
+[17:35:24.741] [Download] lwjgl-2.9.0.jar：文件大小 994633 B（971 K）
+[17:35:24.810] [Download] grass1.ogg：文件大小 7468 B（7.29 K）
+[17:35:24.838] [Download] lwjgl-platform-2.9.0-natives-windows.jar 2240#：出错，基础连接已经关闭: 发送时发生错误。
+你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+————————————
+详细错误信息：
+→ 无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。
+→ 远程主机强迫关闭了一个现有的连接。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.Sockets.SocketException
+[17:35:24.851] [Download] lwjgl-platform-2.9.0-natives-windows.jar 2241#：出错，基础连接已经关闭: 发送时发生错误。
+你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+————————————
+详细错误信息：
+→ 无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。
+→ 远程主机强迫关闭了一个现有的连接。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.Sockets.SocketException
+[17:35:24.863] [Download] grass4.ogg 2252#：开始，起始点 0，https://download.mcbbs.net/assets/c7/c7b1005d4926f6a2e2387a41ab1fb48a72f18e98
+[17:35:24.863] [Download] gravel1.ogg 2253#：开始，起始点 0，https://download.mcbbs.net/assets/e8/e8b89f316f3e9989a87f6e6ff12db9abe0f8b09f
+[17:35:24.894] [Download] gravel3.ogg：文件大小 6905 B（6.74 K）
+[17:35:24.918] [Download] 13.ogg：文件大小 1071028 B（1.02 M）
+[17:35:24.940] [Download] lwjgl-2.9.0.jar 2250#：出错，基础连接已经关闭: 发送时发生错误。
+你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+————————————
+详细错误信息：
+→ 无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。
+→ 远程主机强迫关闭了一个现有的连接。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.Sockets.SocketException
+[17:35:24.955] [Download] lwjgl-2.9.0.jar 2249#：出错，基础连接已经关闭: 发送时发生错误。
+你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+————————————
+详细错误信息：
+→ 无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。
+→ 远程主机强迫关闭了一个现有的连接。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.Sockets.SocketException
+[17:35:24.968] [Download] lwjgl-2.9.0.jar 2247#：出错，基础连接已经关闭: 发送时发生错误。
+你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+————————————
+详细错误信息：
+→ 无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。
+→ 远程主机强迫关闭了一个现有的连接。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.Sockets.SocketException
+[17:35:24.984] [Download] gravel2.ogg 2259#：开始，起始点 0，https://download.mcbbs.net/assets/c3/c3b3797d04cb9640e1d3a72d5e96edb410388fa3
+[17:35:24.984] [Download] gravel4.ogg 2260#：开始，起始点 0，https://download.mcbbs.net/assets/7b/7bf3553a4fe41a0078f4988a13d6e1ed8663ef4c
+[17:35:25.025] [Download] out.ogg：文件大小 6059 B（5.92 K）
+[17:35:25.040] [Download] cloth3.ogg：文件大小 4897 B（4.78 K）
+[17:35:25.044] [Download] gravel2.ogg：文件大小 7501 B（7.33 K）
+[17:35:25.067] [Download] lwjgl-2.9.0.jar 2258#：出错，基础连接已经关闭: 发送时发生错误。
+你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+————————————
+详细错误信息：
+→ 无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。
+→ 远程主机强迫关闭了一个现有的连接。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.Sockets.SocketException
+[17:35:25.077] [Download] grass2.ogg：文件大小 7691 B（7.51 K）
+[17:35:25.104] [Download] stone1.ogg 2263#：开始，起始点 0，https://download.mcbbs.net/assets/4e/4e094ed8dfa98656d8fec52a7d20c5ee6098b6ad
+[17:35:25.104] [Download] stone3.ogg 2264#：开始，起始点 0，https://download.mcbbs.net/assets/8f/8f23c02475d388b23e5faa680eafe6b991d7a9d4
+[17:35:25.104] [Download] cave10.ogg 2265#：开始，起始点 0，https://download.mcbbs.net/assets/79/79a5b53bf22cca182ddff2a670942c49867663ec
+[17:35:25.111] [Download] gravel1.ogg：文件大小 6851 B（6.69 K）
+[17:35:25.186] [Download] wood4.ogg：文件大小 6817 B（6.66 K）
+[17:35:25.236] [Download] cave2.ogg 2266#：开始，起始点 0，https://download.mcbbs.net/assets/56/5680749048457f5772ec95a73d856ad792fa1717
+[17:35:25.236] [Download] rain1.ogg 2267#：开始，起始点 0，https://download.mcbbs.net/assets/d6/d68bae1949299ccd8297aaa423dd12e041e83773
+[17:35:25.236] [Download] rain3.ogg 2268#：开始，起始点 0，https://download.mcbbs.net/assets/4c/4cdd8fc380e85409fd94b93abdcad077d75ec58f
+[17:35:25.236] [Download] thunder1.ogg 2269#：开始，起始点 0，https://download.mcbbs.net/assets/67/671ef0ae7b59014a2f637d7af6d781324ab6309f
+[17:35:25.236] [Download] cloth2.ogg 2270#：开始，起始点 0，https://download.mcbbs.net/assets/56/56c1d0ac0de2265018b2c41cb571cc6631101484
+[17:35:25.237] [Download] cloth4.ogg 2271#：开始，起始点 0，https://download.mcbbs.net/assets/55/55da1856e77cfd31a7e8c3d358e1f856c5583198
+[17:35:25.237] [Download] grass2.ogg 2272#：开始，起始点 0，https://download.mcbbs.net/assets/86/86cb1bb0c45625b18e00a64098cd425a38f6d3f2
+[17:35:25.245] [Download] snow3.ogg：文件大小 6540 B（6.39 K）
+[17:35:25.271] [Download] snow1.ogg：文件大小 6532 B（6.38 K）
+[17:35:25.301] [Download] wood3.ogg：文件大小 6604 B（6.45 K）
+[17:35:25.358] [Download] grass4.ogg 2276#：开始，起始点 0，https://download.mcbbs.net/assets/c7/c7b1005d4926f6a2e2387a41ab1fb48a72f18e98
+[17:35:25.358] [Download] gravel1.ogg 2277#：开始，起始点 0，https://download.mcbbs.net/assets/e8/e8b89f316f3e9989a87f6e6ff12db9abe0f8b09f
+[17:35:25.385] [Download] gravel2.ogg：文件大小 7501 B（7.33 K）
+[17:35:25.475] [Download] grass4.ogg：文件大小 7163 B（7 K）
+[17:35:25.479] [Download] gravel3.ogg 2279#：开始，起始点 0，https://download.mcbbs.net/assets/48/48f7e1bb098abd36b9760cca27b9d4391a23de26
+[17:35:25.570] [Download] grass2.ogg：文件大小 7691 B（7.51 K）
+[17:35:25.611] [Download] sand4.ogg 2280#：开始，起始点 0，https://download.mcbbs.net/assets/37/37afa06f97d58767a1cd1382386db878be1532dd
+[17:35:25.611] [Download] wood4.ogg 2281#：开始，起始点 0，https://download.mcbbs.net/assets/dc/dc66978374a46ab2b87db6472804185824868095
+[17:35:25.611] [Download] fire.ogg 2282#：开始，起始点 0，https://download.mcbbs.net/assets/8b/8b260108a73470c16cd244325242d4780cfb7d78
+[17:35:25.629] [Download] rain1.ogg：文件大小 13185 B（12.9 K）
+[17:35:25.648] [Download] stone3.ogg：文件大小 6627 B（6.47 K）
+[17:35:25.668] [Download] thunder1.ogg：文件大小 24468 B（23.9 K）
+[17:35:25.673] [Download] cave10.ogg：文件大小 22725 B（22.2 K）
+[17:35:25.706] [Download] gravel4.ogg：文件大小 6728 B（6.57 K）
+[17:35:25.823] [Download] stone1.ogg：文件大小 6695 B（6.54 K）
+[17:35:25.824] [Download] cloth2.ogg：文件大小 4862 B（4.75 K）
+[17:35:25.865] [Download] blast1.ogg 2285#：开始，起始点 0，https://download.mcbbs.net/assets/d9/d9d7511e8944da0c7ab4ed2d3e3d964f98dd6997
+[17:35:25.865] [Download] twinkle_far1.ogg 2286#：开始，起始点 0，https://download.mcbbs.net/assets/c8/c8053e3b083b08840276de9a728202551302f416
+[17:35:25.874] [Download] cave2.ogg：文件大小 48741 B（47.6 K）
+[17:35:25.885] [Download] grass4.ogg：文件大小 7163 B（7 K）
+[17:35:25.910] [Download] fire.ogg：文件大小 28689 B（28 K）
+[17:35:25.916] [Download] gravel3.ogg：文件大小 6905 B（6.74 K）
+[17:35:25.926] [Download] gravel1.ogg：文件大小 6851 B（6.69 K）
+[17:35:25.986] [Download] lavapop.ogg 2287#：开始，起始点 0，https://download.mcbbs.net/assets/19/19a5aae31c3e0018a960b709a9f0240d8d47dda7
+[17:35:25.986] [Download] splash.ogg 2288#：开始，起始点 0，https://download.mcbbs.net/assets/4c/4c14c40542e249c902d0cac710ab4c6d6debba28
+[17:35:25.986] [Download] swim2.ogg 2289#：开始，起始点 0，https://download.mcbbs.net/assets/82/827d71834e69954e0a7fd7748998332e0b619d29
+[17:35:25.986] [Download] swim4.ogg 2290#：开始，起始点 0，https://download.mcbbs.net/assets/6a/6a908e7c7d61e01bc4223b4991820bfc56f84c5e
+[17:35:25.986] [Download] water.ogg 2291#：开始，起始点 0，https://download.mcbbs.net/assets/34/3483650440deb3934255e044ddabff5b01a65356
+[17:35:25.987] [Download] inside.ogg 2292#：开始，起始点 0，https://download.mcbbs.net/assets/6a/6a83b514027c328b74f8428448dc6589d4b16388
+[17:35:25.987] [Download] death.ogg 2293#：开始，起始点 0，https://download.mcbbs.net/assets/6d/6df3b2c2b951863fc5200edf3ff3396b105ed897
+[17:35:26.014] [Download] cloth4.ogg：文件大小 4844 B（4.73 K）
+[17:35:26.058] [Download] sand4.ogg：文件大小 5491 B（5.36 K）
+[17:35:26.076] [Download] wood4.ogg：文件大小 6817 B（6.66 K）
+[17:35:26.108] [Download] hurt2.ogg 2295#：开始，起始点 0，https://download.mcbbs.net/assets/57/573e565b7fda2c34fc972edd21a82fd2e09200f8
+[17:35:26.108] [Download] loop.ogg 2296#：开始，起始点 0，https://download.mcbbs.net/assets/e2/e260582909112ec3c255d1ec0375c7913df5f9f8
+[17:35:26.240] [Download] takeoff.ogg 2297#：开始，起始点 0，https://download.mcbbs.net/assets/ee/ee6079d3826ac2994f3f58e62370f3c8ff9328e9
+[17:35:26.240] [Download] breathe4.ogg 2298#：开始，起始点 0，https://download.mcbbs.net/assets/78/78d544a240d627005aaef6033fd646eafc66fe7a
+[17:35:26.284] [Download] blast1.ogg：文件大小 11071 B（10.8 K）
+[17:35:26.320] [Download] splash.ogg：文件大小 16702 B（16.3 K）
+[17:35:26.361] [Download] death.ogg 2300#：开始，起始点 0，https://download.mcbbs.net/assets/17/17491c8dd9511e9d848c92b4b7ae047aed164072
+[17:35:26.380] [Download] death.ogg：文件大小 8726 B（8.52 K）
+[17:35:26.445] [Download] twinkle_far1.ogg：文件大小 23987 B（23.4 K）
+[17:35:26.470] [Download] cloth4.ogg：文件大小 4844 B（4.73 K）
+[17:35:26.482] [Download] meow4.ogg 2302#：开始，起始点 0，https://download.mcbbs.net/assets/4b/4bf7c7a08c1217de7b1f0faf82429665fbf18458
+[17:35:26.507] [Download] loop.ogg：文件大小 16510 B（16.1 K）
+[17:35:26.525] [Download] swim4.ogg：文件大小 7836 B（7.65 K）
+[17:35:26.526] [Download] swim2.ogg：文件大小 9540 B（9.32 K）
+[17:35:26.538] [Download] lavapop.ogg：文件大小 5609 B（5.48 K）
+[17:35:26.600] [Download] inside.ogg：文件大小 57426 B（56.1 K）
+[17:35:26.614] [Download] purr1.ogg 2303#：开始，起始点 0，https://download.mcbbs.net/assets/31/315512d6027033c2a279841badb40a26d74efc81
+[17:35:26.666] [Download] takeoff.ogg：文件大小 8821 B（8.61 K）
+[17:35:26.687] [Download] hurt2.ogg：文件大小 5530 B（5.4 K）
+[17:35:26.710] [Download] breathe4.ogg：文件大小 22054 B（21.5 K）
+[17:35:26.735] [Download] purreow1.ogg 2305#：开始，起始点 0，https://download.mcbbs.net/assets/d0/d00791807e913e57d58fd891cb4dd10186cfdf38
+[17:35:26.856] [Download] plop.ogg 2309#：开始，起始点 0，https://download.mcbbs.net/assets/ab/ab5a32b70ef1e7aafc550b20afdb7dc8c0d5d901
+[17:35:26.856] [Download] say1.ogg 2310#：开始，起始点 0，https://download.mcbbs.net/assets/74/74e5422bd83bb2041a6f0d09644bc095c0e9e21a
+[17:35:26.861] [Download] death.ogg：文件大小 30155 B（29.4 K）
+[17:35:26.976] [Download] meow4.ogg：文件大小 9560 B（9.34 K）
+[17:35:26.988] [Download] hurt1.ogg 2311#：开始，起始点 0，https://download.mcbbs.net/assets/98/989c3b614f736aa77bb2800821ea56936e98ca68
+[17:35:26.988] [Download] hurt2.ogg 2312#：开始，起始点 0，https://download.mcbbs.net/assets/75/758d2a1c36abc84d2744d697b76d5414ea96d9f3
+[17:35:27.046] [Download] purr1.ogg：文件大小 27911 B（27.3 K）
+[17:35:27.109] [Download] hurt3.ogg 2314#：开始，起始点 0，https://download.mcbbs.net/assets/2a/2a031f10c7dc24e75d5dc3a374ebe7f36fc3e143
+[17:35:27.109] [Download] say2.ogg 2315#：开始，起始点 0，https://download.mcbbs.net/assets/22/228bab6d9b09994dc407b9d022bebca791d81c16
+[17:35:27.109] [Download] say4.ogg 2316#：开始，起始点 0，https://download.mcbbs.net/assets/80/80ce8d4b8d361b69e42d8d147e42a09d3c85a115
+[17:35:27.109] [Download] step4.ogg 2317#：开始，起始点 0，https://download.mcbbs.net/assets/03/03063be15a77cc3f6815ec98090e351178190b33
+[17:35:27.199] [Download] purreow1.ogg：文件大小 11787 B（11.5 K）
+[17:35:27.277] [Download] plop.ogg：文件大小 4680 B（4.57 K）
+[17:35:27.359] [Download] say1.ogg：文件大小 7956 B（7.77 K）
+[17:35:27.362] [Download] say2.ogg 2319#：开始，起始点 0，https://download.mcbbs.net/assets/c4/c46c7d2a84749bfcbcf576aea0d66fd3deccba31
+[17:35:27.362] [Download] say3.ogg 2320#：开始，起始点 0，https://download.mcbbs.net/assets/09/0979bf115d081d70a985f1cfcab1b9274d6be74e
+[17:35:27.362] [Download] end.ogg 2321#：开始，起始点 0，https://download.mcbbs.net/assets/53/53cc1890ebea833d3964c7dd1c90676650e34404
+[17:35:27.429] [Download] water.ogg：文件大小 36329 B（35.5 K）
+[17:35:27.440] [Download] hurt1.ogg：文件大小 7302 B（7.13 K）
+[17:35:27.483] [Download] growl2.ogg 2323#：开始，起始点 0，https://download.mcbbs.net/assets/d8/d859c9c5be04ffc41479b306814a933983eaa235
+[17:35:27.483] [Download] growl3.ogg 2324#：开始，起始点 0，https://download.mcbbs.net/assets/ba/ba35053358ede7c3bf33a4c344d66680f09008c9
+[17:35:27.548] [Download] hurt2.ogg：文件大小 8430 B（8.23 K）
+[17:35:27.577] [Download] step4.ogg：文件大小 7394 B（7.22 K）
+[17:35:27.577] [Download] hurt3.ogg：文件大小 8934 B（8.72 K）
+[17:35:27.615] [Download] hit2.ogg 2325#：开始，起始点 0，https://download.mcbbs.net/assets/46/46e5db05b1e91ce33c9c4c63260227fa629230f4
+[17:35:27.615] [Download] hit3.ogg 2326#：开始，起始点 0，https://download.mcbbs.net/assets/e9/e96237fdf5e5e1aca09496b9192243651525d0ac
+[17:35:27.615] [Download] hit4.ogg 2327#：开始，起始点 0，https://download.mcbbs.net/assets/d2/d2c44730f6c93676d4e4316add92e424d0a71a33
+[17:35:27.615] [Download] wings1.ogg 2328#：开始，起始点 0，https://download.mcbbs.net/assets/5a/5a368ed32b3357e31629451ace57eb30d90e8874
+[17:35:27.616] [Download] wings5.ogg 2329#：开始，起始点 0，https://download.mcbbs.net/assets/fa/fa6d89b586c5ca29efe85c8d373ff9ee19488d40
+[17:35:27.631] [Download] say4.ogg：文件大小 12300 B（12 K）
+[17:35:27.660] [Download] say2.ogg：文件大小 13553 B（13.2 K）
+[17:35:27.737] [Download] wings6.ogg 2331#：开始，起始点 0，https://download.mcbbs.net/assets/e7/e7e8d393fc03a476227890e9ec9319dcc4b400ea
+[17:35:27.866] [Download] say3.ogg：文件大小 6787 B（6.63 K）
+[17:35:27.895] [Download] end.ogg：文件大小 257102 B（251 K）
+[17:35:27.931] [Download] say2.ogg：文件大小 6768 B（6.61 K）
+[17:35:27.976] [Download] growl2.ogg：文件大小 27101 B（26.5 K）
+[17:35:28.042] [Download] wings1.ogg：文件大小 10617 B（10.4 K）
+[17:35:28.058] [Download] hit3.ogg：文件大小 11158 B（10.9 K）
+[17:35:28.075] [Download] growl3.ogg：文件大小 27102 B（26.5 K）
+[17:35:28.123] [Download] wings5.ogg：文件大小 11659 B（11.4 K）
+[17:35:28.233] [Download] idle2.ogg 2334#：开始，起始点 0，https://download.mcbbs.net/assets/9c/9c7aaf49b3096a69a2d6ca62c1067400a2b70814
+[17:35:28.249] [Download] wings6.ogg：文件大小 11150 B（10.9 K）
+[17:35:28.365] [Download] idle4.ogg 2338#：开始，起始点 0，https://download.mcbbs.net/assets/40/405e2f82caef7f79eb9e26886520711e446366ce
+[17:35:28.365] [Download] stare.ogg 2339#：开始，起始点 0，https://download.mcbbs.net/assets/57/5738d7f49ef30adcfc4f2ab13e0b1d74f09a1289
+[17:35:28.365] [Download] charge.ogg 2340#：开始，起始点 0，https://download.mcbbs.net/assets/6f/6f1d403f47725af0f4c42a74cfec00ff59153160
+[17:35:28.486] [Download] death.ogg 2342#：开始，起始点 0，https://download.mcbbs.net/assets/72/725e5179c72444c6d885e39c27e6b31ed83d58bc
+[17:35:28.486] [Download] fireball4.ogg 2343#：开始，起始点 0，https://download.mcbbs.net/assets/ea/eafa60d7ec34f86e8f07a001ddcdf5c4600bb174
+[17:35:28.486] [Download] moan2.ogg 2344#：开始，起始点 0，https://download.mcbbs.net/assets/02/02073c284f025653e55f9cde25a4a62723d395fa
+[17:35:28.486] [Download] moan7.ogg 2345#：开始，起始点 0，https://download.mcbbs.net/assets/cf/cfb956ba9d26cbdacd16ef77d58764df783b2c7f
+[17:35:28.607] [Download] scream1.ogg 2346#：开始，起始点 0，https://download.mcbbs.net/assets/a0/a0e62d86e5899405df4e796fe648e091d828691d
+[17:35:28.607] [Download] scream4.ogg 2347#：开始，起始点 0，https://download.mcbbs.net/assets/ed/edbc9e9cb9dfeabef93207fc0bdee6ceee5df7bc
+[17:35:28.719] [Download] idle2.ogg：文件大小 8236 B（8.04 K）
+[17:35:28.739] [Download] death.ogg 2349#：开始，起始点 0，https://download.mcbbs.net/assets/77/770b3f1feb05b9b941d858eb72b9d04ffc5d52c9
+[17:35:28.739] [Download] charge.ogg：文件大小 13415 B（13.1 K）
+[17:35:28.860] [Download] hit1.ogg 2350#：开始，起始点 0，https://download.mcbbs.net/assets/94/942937fcad0fefd61e019678e3710f3f077757d4
+[17:35:28.860] [Download] hit3.ogg 2351#：开始，起始点 0，https://download.mcbbs.net/assets/27/27c78cd09f7fd1770a41d78247ccf57c77dbc773
+[17:35:28.860] [Download] hit4.ogg 2352#：开始，起始点 0，https://download.mcbbs.net/assets/a2/a2dbb90f23b0babe7c569ceca28db49d0c112714
+[17:35:28.864] [Download] stare.ogg：文件大小 127738 B（125 K）
+[17:35:28.888] [Download] idle4.ogg：文件大小 11208 B（10.9 K）
+[17:35:28.948] [Download] hit4.ogg：文件大小 10812 B（10.6 K）
+[17:35:28.955] [Download] moan7.ogg：文件大小 9222 B（9.01 K）
+[17:35:29.023] [Download] death.ogg：文件大小 26853 B（26.2 K）
+[17:35:29.047] [Download] fireball4.ogg：文件大小 8535 B（8.33 K）
+[17:35:29.106] [Download] hit2.ogg：文件大小 10880 B（10.6 K）
+[17:35:29.113] [Download] big1.ogg 2355#：开始，起始点 0，https://download.mcbbs.net/assets/43/430c65ac81151d873a27d611a9dff6c562e38c4f
+[17:35:29.113] [Download] jump2.ogg 2356#：开始，起始点 0，https://download.mcbbs.net/assets/32/3285a993220dcea1fc37e98b9aa9219422c2c095
+[17:35:29.113] [Download] jump3.ogg 2357#：开始，起始点 0，https://download.mcbbs.net/assets/5a/5a2449cc3d4a6ad36598847e501f956e5a3528bd
+[17:35:29.113] [Download] small1.ogg 2358#：开始，起始点 0，https://download.mcbbs.net/assets/5c/5c633c345fe4cb87c36ada2fe2b5da1b80601cf3
+[17:35:29.113] [Download] small3.ogg 2359#：开始，起始点 0，https://download.mcbbs.net/assets/65/65a1a69845133187d6b8689e6ce9707da10f21a6
+[17:35:29.114] [Download] small5.ogg 2360#：开始，起始点 0，https://download.mcbbs.net/assets/56/560dd97e6da8badbc8ac00b28c45312e60a525f2
+[17:35:29.155] [Download] scream4.ogg：文件大小 12220 B（11.9 K）
+[17:35:29.258] [Download] death.ogg：文件大小 17766 B（17.3 K）
+[17:35:29.285] [Download] hit4.ogg：文件大小 8686 B（8.48 K）
+[17:35:29.356] [Download] say1.ogg 2362#：开始，起始点 0，https://download.mcbbs.net/assets/a9/a99bf88163bcb576e31e6e2275145afba6d1b4c7
+[17:35:29.367] [Download] hit3.ogg：文件大小 8947 B（8.74 K）
+[17:35:29.562] [Download] small1.ogg：文件大小 6269 B（6.12 K）
+[17:35:29.615] [Download] say2.ogg 2364#：开始，起始点 0，https://download.mcbbs.net/assets/ab/ab615a912fb8ea06648836e0ec1cbeeefe117da6
+[17:35:29.615] [Download] say3.ogg 2365#：开始，起始点 0，https://download.mcbbs.net/assets/58/58efedf302e0203a6ff9e59a6535d300286c5594
+[17:35:29.616] [Download] step1.ogg 2366#：开始，起始点 0，https://download.mcbbs.net/assets/05/05baaf5ed0cbdab08292b3962e1b1385e13b9dba
+[17:35:29.616] [Download] small5.ogg：文件大小 4826 B（4.71 K）
+[17:35:29.616] [Download] step2.ogg 2367#：开始，起始点 0，https://download.mcbbs.net/assets/a6/a69a66bfda52a42ea8cf712eb1caa8830046c14f
+[17:35:29.638] [Download] jump2.ogg：文件大小 12973 B（12.7 K）
+[17:35:29.660] [Download] jump3.ogg：文件大小 12258 B（12 K）
+[17:35:29.859] [Download] step4.ogg 2371#：开始，起始点 0，https://download.mcbbs.net/assets/f5/f5e1ba4ac271b4c2feee86a4d04e32279ea99c10
+[17:35:29.859] [Download] say3.ogg 2372#：开始，起始点 0，https://download.mcbbs.net/assets/c9/c9ac72409cbe6093e84d72a2a5c719d9e4a0e6b2
+[17:35:29.904] [Download] say1.ogg：文件大小 5645 B（5.51 K）
+[17:35:29.980] [Download] step1.ogg 2374#：开始，起始点 0，https://download.mcbbs.net/assets/52/5288cab96e26207edd31307c9c01b6902306e4f6
+[17:35:29.980] [Download] step5.ogg 2375#：开始，起始点 0，https://download.mcbbs.net/assets/c2/c289aa46fcbcfaf21c8080d57953fd45a4939294
+[17:35:29.980] [Download] hit2.ogg 2376#：开始，起始点 0，https://download.mcbbs.net/assets/38/38d4d36bbe40a48c3a8ef97735b59b37f013fd6e
+[17:35:30.034] [Download] moan2.ogg：文件大小 8909 B（8.7 K）
+[17:35:30.137] [Download] say2.ogg：文件大小 6798 B（6.64 K）
+[17:35:30.172] [Download] step2.ogg：文件大小 4508 B（4.4 K）
+[17:35:30.238] [Download] hit3.ogg 2378#：开始，起始点 0，https://download.mcbbs.net/assets/5b/5b1675279bbc245fc6bbb705de8ea09fb3f32b53
+[17:35:30.238] [Download] kill.ogg 2379#：开始，起始点 0，https://download.mcbbs.net/assets/24/24cdac5a80fdad7ab31dc0695b57ece55aecb21a
+[17:35:30.238] [Download] say2.ogg 2380#：开始，起始点 0，https://download.mcbbs.net/assets/39/396b8b46e593cf55d843853b704dc054ef614e55
+[17:35:30.238] [Download] say4.ogg 2381#：开始，起始点 0，https://download.mcbbs.net/assets/4f/4fce41a2d0890418ae1efb03d1142ca74d00aa61
+[17:35:30.267] [Download] hit1.ogg：文件大小 9479 B（9.26 K）
+[17:35:30.352] [Download] step5.ogg：文件大小 5185 B（5.06 K）
+[17:35:30.359] [Download] step2.ogg 2383#：开始，起始点 0，https://download.mcbbs.net/assets/f1/f1665747da14569c4de55e07884deeef18a40f62
+[17:35:30.359] [Download] hurt4.ogg 2384#：开始，起始点 0，https://download.mcbbs.net/assets/a8/a88e0436e38512171a3ef819249c3d1a2650540f
+[17:35:30.362] [Download] say3.ogg：文件大小 9150 B（8.94 K）
+[17:35:30.382] [Download] step4.ogg：文件大小 4483 B（4.38 K）
+[17:35:30.488] [Download] step1.ogg：文件大小 4838 B（4.72 K）
+[17:35:30.490] [Download] say3.ogg 2386#：开始，起始点 0，https://download.mcbbs.net/assets/a1/a11ac56ec61c17e99f4ee33d8712404edf442720
+[17:35:30.513] [Download] hit2.ogg：文件大小 6717 B（6.56 K）
+[17:35:30.611] [Download] attack1.ogg 2387#：开始，起始点 0，https://download.mcbbs.net/assets/07/075e1ea92d5564d7bdf267ae975044315a41a686
+[17:35:30.629] [Download] say4.ogg：文件大小 6394 B（6.24 K）
+[17:35:30.682] [Download] hit3.ogg：文件大小 7205 B（7.04 K）
+[17:35:30.737] [Download] say2.ogg：文件大小 9782 B（9.6 K）
+[17:35:30.737] [Download] attack2.ogg 2389#：开始，起始点 0，https://download.mcbbs.net/assets/f6/f6e2067571631aae206000a501c9adebe862e32a
+[17:35:30.776] [Download] step2.ogg：文件大小 9498 B（9.28 K）
+[17:35:30.839] [Download] scream1.ogg：文件大小 10828 B（10.6 K）
+[17:35:30.858] [Download] big2.ogg 2390#：开始，起始点 0，https://download.mcbbs.net/assets/00/00e06362a31ad7094e452c5bcea837b061825cb0
+[17:35:30.941] [Download] say3.ogg：文件大小 8161 B（7.97 K）
+[17:35:30.990] [Download] big3.ogg 2396#：开始，起始点 0，https://download.mcbbs.net/assets/2c/2c20816632caecf75f00bb968f51847e3a982e75
+[17:35:30.990] [Download] small2.ogg 2397#：开始，起始点 0，https://download.mcbbs.net/assets/5e/5e2ef521293719bbe22bbb515bbcacf4c233a075
+[17:35:31.017] [Download] say3.ogg：文件大小 5602 B（5.47 K）
+[17:35:31.057] [Download] small3.ogg：文件大小 5314 B（5.19 K）
+[17:35:31.111] [Download] small3.ogg 2399#：开始，起始点 0，https://download.mcbbs.net/assets/3b/3bc8225914b1be20db68fcdae202d5acee3234c2
+[17:35:31.111] [Download] death.ogg 2400#：开始，起始点 0，https://download.mcbbs.net/assets/4c/4c69a6edc25d973999aa0db2bb46b583a31da278
+[17:35:31.232] [Download] say4.ogg 2402#：开始，起始点 0，https://download.mcbbs.net/assets/3c/3cf3e8d3aab0a3092f6c6bf681ff156bc9653859
+[17:35:31.245] [Download] step1.ogg：文件大小 5285 B（5.16 K）
+[17:35:31.286] [Download] attack2.ogg：文件大小 7391 B（7.22 K）
+[17:35:31.364] [Download] step1.ogg 2405#：开始，起始点 0，https://download.mcbbs.net/assets/8f/8f7ff84e460ca507f654168f1d24e82637517940
+[17:35:31.364] [Download] step3.ogg 2406#：开始，起始点 0，https://download.mcbbs.net/assets/ef/efa5acfa08b210ba3087b535c40549c0ed8916f0
+[17:35:31.375] [Download] big2.ogg：文件大小 7931 B（7.75 K）
+[17:35:31.402] [Control] 按下图标按钮：BtnTitleMin
+[17:35:31.509] [Download] big3.ogg：文件大小 9436 B（9.21 K）
+[17:35:31.519] [Download] small2.ogg：文件大小 5518 B（5.39 K）
+[17:35:31.594] [Download] small3.ogg：文件大小 5314 B（5.19 K）
+[17:35:31.606] [Download] step4.ogg 2415#：开始，起始点 0，https://download.mcbbs.net/assets/7d/7d801582e08be973d1a41469d1b92916278d1e88
+[17:35:31.606] [Download] hurt4.ogg 2416#：开始，起始点 0，https://download.mcbbs.net/assets/72/72a006be3bd693aa23cc2f8e9c9d13ea6f829aa1
+[17:35:31.616] [Download] death.ogg：文件大小 14380 B（14 K）
+[17:35:31.690] [Download] say4.ogg：文件大小 6343 B（6.19 K）
+[17:35:31.710] [Download] big1.ogg：文件大小 10917 B（10.7 K）
+[17:35:31.783] [Download] hurt4.ogg：文件大小 7848 B（7.66 K）
+[17:35:31.843] [Download] step1.ogg：文件大小 8826 B（8.62 K）
+[17:35:31.864] [Download] idle1.ogg 2418#：开始，起始点 0，https://download.mcbbs.net/assets/22/22ed26394cb6f6b5eeb2ceb54fb50608798d19e8
+[17:35:31.864] [Download] idle3.ogg 2419#：开始，起始点 0，https://download.mcbbs.net/assets/79/79afbeabcdbb063cfa00d544dc00beac8543a581
+[17:35:31.985] [Download] idle4.ogg 2421#：开始，起始点 0，https://download.mcbbs.net/assets/e3/e3f90fb5afaf84475dd31dca6f65378a455d17f7
+[17:35:32.106] [Download] bark1.ogg 2423#：开始，起始点 0，https://download.mcbbs.net/assets/24/2452c64a55eaef86bf1b668bb4d5f3b641cd8f25
+[17:35:32.106] [Download] bark2.ogg 2424#：开始，起始点 0，https://download.mcbbs.net/assets/9f/9f1708a6409d04370ec12d0add015b11abbd5371
+[17:35:32.111] [Download] kill.ogg：文件大小 10410 B（10.2 K）
+[17:35:32.133] [Download] step4.ogg：文件大小 9326 B（9.11 K）
+[17:35:32.140] [Download] hurt4.ogg：文件大小 16699 B（16.3 K）
+[17:35:32.152] [Download] attack1.ogg：文件大小 7806 B（7.62 K）
+[17:35:32.215] [Report] FPS 0, 动画 4, 下载中 399（785 K/s）
+[17:35:32.239] [Download] bark3.ogg 2425#：开始，起始点 0，https://download.mcbbs.net/assets/1d/1ddae4e8dfa605e27ec8278b3e312597b674437e
+[17:35:32.239] [Download] growl1.ogg 2426#：开始，起始点 0，https://download.mcbbs.net/assets/0b/0b29f5ce8c4c10fa4184e5d29244f3bc121468a0
+[17:35:32.239] [Download] growl2.ogg 2427#：开始，起始点 0，https://download.mcbbs.net/assets/f5/f57577fe6915175f9e4576e8d73ad4077a381433
+[17:35:32.342] [Download] idle1.ogg：文件大小 19699 B（19.2 K）
+[17:35:32.361] [Download] growl3.ogg 2429#：开始，起始点 0，https://download.mcbbs.net/assets/69/69ef2fe8d6a744689953fd692d0106b0b2d2a9ce
+[17:35:32.361] [Download] howl1.ogg 2430#：开始，起始点 0，https://download.mcbbs.net/assets/84/84556bac99c01ad006552cf5d96494817e9b1700
+[17:35:32.411] [Download] idle3.ogg：文件大小 19307 B（18.9 K）
+[17:35:32.538] [Download] idle4.ogg：文件大小 19355 B（18.9 K）
+[17:35:32.614] [Download] bark2.ogg：文件大小 5447 B（5.32 K）
+[17:35:32.614] [Download] hurt3.ogg 2432#：开始，起始点 0，https://download.mcbbs.net/assets/a5/a5b3f3cdda4d6e13629ccd0e2a38e1f06baa491a
+[17:35:32.614] [Download] shake.ogg 2433#：开始，起始点 0，https://download.mcbbs.net/assets/3d/3d95ea49e91b4295859b193bb41b009b92250a44
+[17:35:32.640] [Download] bark1.ogg：文件大小 5398 B（5.27 K）
+[17:35:32.721] [Download] step3.ogg：文件大小 9237 B（9.02 K）
+[17:35:32.735] [Download] step3.ogg 2435#：开始，起始点 0，https://download.mcbbs.net/assets/30/30e920526eb5855065b873e30d17b4d85bfbe570
+[17:35:32.735] [Download] step4.ogg 2436#：开始，起始点 0，https://download.mcbbs.net/assets/d7/d7d5be6092d00c2f7f68bdcbf10ea3ac3cfea30c
+[17:35:32.740] [Download] bark3.ogg：文件大小 5645 B（5.51 K）
+[17:35:32.759] [Download] growl2.ogg：文件大小 10311 B（10.1 K）
+[17:35:32.856] [Download] step5.ogg 2437#：开始，起始点 0，https://download.mcbbs.net/assets/36/3610feb2a1a575026cfa3ab44965d114e74ea583
+[17:35:32.874] [Download] growl3.ogg：文件大小 13663 B（13.3 K）
+[17:35:33.076] [Download] shake.ogg：文件大小 13502 B（13.2 K）
+[17:35:33.109] [Download] hurt1.ogg 2442#：开始，起始点 0，https://download.mcbbs.net/assets/f3/f35e14af35d1d12244dac9e655f4e31d4ef84e1b
+[17:35:33.109] [Download] infect.ogg 2443#：开始，起始点 0，https://download.mcbbs.net/assets/c1/c18fb5eacf0fdb33c05eb806bc41332cccee43d8
+[17:35:33.128] [Download] hurt3.ogg：文件大小 6381 B（6.23 K）
+[17:35:33.187] [Download] moan1.ogg：已完成，剩余文件 398
+[17:35:33.218] [Download] step4.ogg：文件大小 4869 B（4.75 K）
+[17:35:33.231] [Download] metal1.ogg 2444#：开始，起始点 0，https://download.mcbbs.net/assets/d5/d5b2d34e0c07a6c09c1adb17a15e50a626a88bc1
+[17:35:33.231] [Download] metal3.ogg 2445#：开始，起始点 0，https://download.mcbbs.net/assets/32/322374d89ed809e75005cdc4f6479c959e15aee2
+[17:35:33.238] [Download] step3.ogg：文件大小 4745 B（4.63 K）
+[17:35:33.380] [Download] step5.ogg：文件大小 5143 B（5.02 K）
+[17:35:33.484] [Download] say3.ogg 2447#：开始，起始点 0，https://download.mcbbs.net/assets/7e/7eb3affa45f47f919e74523a55185e65c2081d12
+[17:35:33.542] [Download] growl1.ogg：文件大小 12761 B（12.5 K）
+[17:35:33.615] [Download] step3.ogg 2449#：开始，起始点 0，https://download.mcbbs.net/assets/33/33acf13c25f65a432348e9476eda67d6a34831e3
+[17:35:33.615] [Download] step4.ogg 2450#：开始，起始点 0，https://download.mcbbs.net/assets/69/69b6e589ec3d2c9063972545e83ed1f07e665094
+[17:35:33.640] [Download] hurt1.ogg：文件大小 11047 B（10.8 K）
+[17:35:33.660] [Download] infect.ogg：文件大小 20085 B（19.6 K）
+[17:35:33.697] [Download] metal1.ogg：文件大小 8632 B（8.43 K）
+[17:35:33.770] [Download] metal3.ogg：文件大小 8843 B（8.64 K）
+[17:35:33.857] [Download] step5.ogg 2452#：开始，起始点 0，https://download.mcbbs.net/assets/b8/b88bd8618c05232a7287799ea9246ae12f5da9d5
+[17:35:33.857] [Download] unfect.ogg 2453#：开始，起始点 0，https://download.mcbbs.net/assets/40/403c56cd190fb7587a26bcd1b7d2abac598c3ec0
+[17:35:33.882] [Download] howl1.ogg：文件大小 16994 B（16.6 K）
+[17:35:33.989] [Download] wood4.ogg 2455#：开始，起始点 0，https://download.mcbbs.net/assets/10/1028d0a373790e14c34786a925c4656bdaeb4c4d
+[17:35:33.991] [Download] say3.ogg：文件大小 19806 B（19.3 K）
+[17:35:34.110] [Download] zpig4.ogg 2457#：开始，起始点 0，https://download.mcbbs.net/assets/e1/e1187646b6256b92a1384f26ef2a7e56efcbe00d
+[17:35:34.110] [Download] zpigangry2.ogg 2458#：开始，起始点 0，https://download.mcbbs.net/assets/03/0349ce87fe856ddf8fdd94a559bb29061b002b6c
+[17:35:34.110] [Download] zpigdeath.ogg 2459#：开始，起始点 0，https://download.mcbbs.net/assets/40/40b8e244d03ae17483edd4571bd851e10a97050f
+[17:35:34.154] [Download] step3.ogg：文件大小 11734 B（11.5 K）
+[17:35:34.166] [Download] step4.ogg：文件大小 9822 B（9.6 K）
+[17:35:34.231] [Download] bass.ogg 2460#：开始，起始点 0，https://download.mcbbs.net/assets/e2/e28d844995368de1d45c724a5d371c9952ae5ed4
+[17:35:34.231] [Download] bassattack.ogg 2461#：开始，起始点 0，https://download.mcbbs.net/assets/03/037b9fb7f74381f354739d015193dc4a6897f620
+[17:35:34.231] [Download] portal.ogg 2462#：开始，起始点 0，https://download.mcbbs.net/assets/9a/9a20be18fed05330f745a54eb8aeba11aac5403b
+[17:35:34.287] [Download] unfect.ogg：文件大小 19917 B（19.5 K）
+[17:35:34.321] [Download] step5.ogg：文件大小 14377 B（14 K）
+[17:35:34.363] [Download] bow.ogg 2464#：开始，起始点 0，https://download.mcbbs.net/assets/87/87edc11141fb5a045f2ed830b545aaa73f96ee99
+[17:35:34.363] [Download] bowhit1.ogg 2465#：开始，起始点 0，https://download.mcbbs.net/assets/78/78f034d58779fb4d22b00ea249015a0dbf4e7b3f
+[17:35:34.363] [Download] breath.ogg 2466#：开始，起始点 0，https://download.mcbbs.net/assets/dd/dd2f7209c2a58b0886beb34d49b0512b49adbb7e
+[17:35:34.363] [Download] burp.ogg 2467#：开始，起始点 0，https://download.mcbbs.net/assets/bd/bdc648e04933df8ddcccc84b375d6556776d4331
+[17:35:34.363] [Download] chestclosed.ogg 2468#：开始，起始点 0，https://download.mcbbs.net/assets/05/056393a33a9633685c3dc3be2887f5cbd7dbc63f
+[17:35:34.411] [Download] wood4.ogg：文件大小 7608 B（7.43 K）
+[17:35:34.522] [Download] zpigangry2.ogg：文件大小 5789 B（5.65 K）
+[17:35:34.609] [Download] chestopen.ogg 2472#：开始，起始点 0，https://download.mcbbs.net/assets/18/186d5d9481d59cc99bc4be1b5fbb98d0ef877b8e
+[17:35:34.664] [Download] bass.ogg：文件大小 5479 B（5.35 K）
+[17:35:34.703] [Download] zpig4.ogg：文件大小 7066 B（6.9 K）
+[17:35:34.712] [Download] bassattack.ogg：文件大小 5574 B（5.44 K）
+[17:35:34.826] [Download] portal.ogg：文件大小 25153 B（24.6 K）
+[17:35:34.864] [Download] classic_hurt.ogg 2474#：开始，起始点 0，https://download.mcbbs.net/assets/9d/9d485556b89bf776042080774679c37300bc744b
+[17:35:34.947] [Download] breath.ogg：文件大小 14331 B（14 K）
+[17:35:34.974] [Download] bow.ogg：文件大小 6658 B（6.5 K）
+[17:35:34.977] [Download] bowhit1.ogg：文件大小 11106 B（10.8 K）
+[17:35:34.985] [Download] click.ogg 2476#：开始，起始点 0，https://download.mcbbs.net/assets/2f/2fe092579d9637e2d160319820ee08e60a237bb7
+[17:35:35.106] [Download] eat3.ogg 2478#：开始，起始点 0，https://download.mcbbs.net/assets/9f/9f2c4bab5ed55f1714fffa223985c81babc8f6c0
+[17:35:35.106] [Download] explode4.ogg 2479#：开始，起始点 0，https://download.mcbbs.net/assets/f2/f259be40364341edcaf88e339bc24ab01e49845a
+[17:35:35.106] [Download] fizz.ogg 2480#：开始，起始点 0，https://download.mcbbs.net/assets/c6/c649e60ea9a99c97501a50d2dc4e579343e91ea8
+[17:35:35.146] [Download] chestopen.ogg：文件大小 8703 B（8.5 K）
+[17:35:35.238] [Download] glass1.ogg 2481#：开始，起始点 0，https://download.mcbbs.net/assets/72/7274a2231ed4544a37e599b7b014e589e5377094
+[17:35:35.238] [Download] glass2.ogg 2482#：开始，起始点 0，https://download.mcbbs.net/assets/87/87c47bda3645c68f18a49e83cbf06e5302d087ff
+[17:35:35.359] [Download] levelup.ogg 2484#：开始，起始点 0，https://download.mcbbs.net/assets/9d/9d52e43288d7f9e4d14199368a0f30ae3570d05a
+[17:35:35.359] [Download] orb.ogg 2485#：开始，起始点 0，https://download.mcbbs.net/assets/e9/e9833a1512b57bcf88ac4fdcc8df4e5a7e9d701d
+[17:35:35.432] [Download] classic_hurt.ogg：文件大小 11499 B（11.2 K）
+[17:35:35.486] [Download] pop.ogg 2486#：开始，起始点 0，https://download.mcbbs.net/assets/8f/8f45b5faf6dfae2065846d26612f7552b73640dd
+[17:35:35.486] [Download] successful_hit.ogg 2487#：开始，起始点 0，https://download.mcbbs.net/assets/e9/e9833a1512b57bcf88ac4fdcc8df4e5a7e9d701d
+[17:35:35.514] [Download] chestclosed.ogg：文件大小 7779 B（7.6 K）
+[17:35:35.571] [Download] zpigdeath.ogg：文件大小 10357 B（10.1 K）
+[17:35:35.577] [Download] click.ogg：文件大小 7046 B（6.88 K）
+[17:35:35.607] [Download] cloth2.ogg 2489#：开始，起始点 0，https://download.mcbbs.net/assets/56/56c1d0ac0de2265018b2c41cb571cc6631101484
+[17:35:35.607] [Download] grass1.ogg 2490#：开始，起始点 0，https://download.mcbbs.net/assets/22/227ab99bf7c6cf0b2002e0f7957d0ff7e5cb0c96
+[17:35:35.637] [Download] burp.ogg：文件大小 6337 B（6.19 K）
+[17:35:35.675] [Download] explode4.ogg：文件大小 25090 B（24.5 K）
+[17:35:35.697] [Download] eat3.ogg：文件大小 5813 B（5.68 K）
+[17:35:35.701] [Download] glass2.ogg：文件大小 7532 B（7.36 K）
+[17:35:35.739] [Download] grass3.ogg 2492#：开始，起始点 0，https://download.mcbbs.net/assets/76/76de0a736928eac5003691d73bdc2eda92116198
+[17:35:35.739] [Download] grass5.ogg 2493#：开始，起始点 0，https://download.mcbbs.net/assets/81/813ebd91b9c3fe1ac8f89f13c85d0755678f2165
+[17:35:35.739] [Download] gravel1.ogg 2494#：开始，起始点 0，https://download.mcbbs.net/assets/1d/1d761cb3bcb45498719e4fba0751e1630e134f1a
+[17:35:35.739] [Download] gravel2.ogg 2495#：开始，起始点 0，https://download.mcbbs.net/assets/ac/ac7a7c8d106e26abc775b1b46150c083825d8ddc
+[17:35:35.739] [Download] gravel3.ogg 2496#：开始，起始点 0，https://download.mcbbs.net/assets/c1/c109b985a7e6d5d3828c92e00aefa49deca0eb8c
+[17:35:35.760] [Download] glass1.ogg：文件大小 7443 B（7.27 K）
+[17:35:35.845] [Download] orb.ogg：文件大小 7139 B（6.97 K）
+[17:35:35.860] [Download] ladder3.ogg 2497#：开始，起始点 0，https://download.mcbbs.net/assets/3f/3fee58d7b2c99ddbce962618176637574ae8d67b
+[17:35:35.860] [Download] ladder4.ogg 2498#：开始，起始点 0，https://download.mcbbs.net/assets/f7/f78ede81160002fc0561218c7ecd97e91cccab7c
+[17:35:35.946] [Download] successful_hit.ogg：文件大小 7139 B（6.97 K）
+[17:35:35.987] [Download] sand1.ogg 2502#：开始，起始点 0，https://download.mcbbs.net/assets/98/9813c8185197f4a4296649f27a9d738c4a6dfc78
+[17:35:35.998] [Download] pop.ogg：文件大小 4193 B（4.09 K）
+[17:35:36.063] [Download] cloth2.ogg：文件大小 4862 B（4.75 K）
+[17:35:36.108] [Download] sand2.ogg 2504#：开始，起始点 0，https://download.mcbbs.net/assets/bd/bd1750c016f6bab40934eff0b0fb64c41c86e44b
+[17:35:36.108] [Download] sand4.ogg 2505#：开始，起始点 0，https://download.mcbbs.net/assets/a4/a474236fb0c75bd65a6010e87dbc000d345fc185
+[17:35:36.108] [Download] sand5.ogg 2506#：开始，起始点 0，https://download.mcbbs.net/assets/9f/9fd6d2c633d276b952f2ff2aaa1fa7e5fb5efd2a
+[17:35:36.127] [Download] grass1.ogg：文件大小 7126 B（6.96 K）
+[17:35:36.190] [Download] gravel3.ogg：文件大小 7488 B（7.31 K）
+[17:35:36.225] [Download] gravel1.ogg：文件大小 7757 B（7.58 K）
+[17:35:36.232] [Download] gravel2.ogg：文件大小 7921 B（7.74 K）
+[17:35:36.264] [Download] grass5.ogg：文件大小 7801 B（7.62 K）
+[17:35:36.320] [Download] ladder4.ogg：文件大小 6182 B（6.04 K）
+[17:35:36.361] [Download] snow2.ogg 2508#：开始，起始点 0，https://download.mcbbs.net/assets/58/5887d10234c4f244ec5468080412f3e6ef9522f3
+[17:35:36.361] [Download] snow3.ogg 2509#：开始，起始点 0，https://download.mcbbs.net/assets/a4/a4bc069321a96236fde04a3820664cc23b2ea619
+[17:35:36.369] [Download] ladder3.ogg：文件大小 6281 B（6.13 K）
+[17:35:36.482] [Download] stone4.ogg 2510#：开始，起始点 0，https://download.mcbbs.net/assets/d5/d5218034051a13322d7b5efc0b5a9af739615f04
+[17:35:36.549] [Download] levelup.ogg：文件大小 32140 B（31.4 K）
+[17:35:36.610] [Download] sand5.ogg：文件大小 5182 B（5.06 K）
+[17:35:36.611] [Download] sand2.ogg：文件大小 5114 B（4.99 K）
+[17:35:36.611] [Download] sand4.ogg：文件大小 5321 B（5.2 K）
+[17:35:36.614] [Download] stone6.ogg 2512#：开始，起始点 0，https://download.mcbbs.net/assets/c4/c4810a3de80cb57f9cdf8deaacfd36cb619cdf0b
+[17:35:36.614] [Download] wood1.ogg 2513#：开始，起始点 0，https://download.mcbbs.net/assets/af/afb01196e2179e3b15b48f3373cea4c155d56b84
+[17:35:36.614] [Download] wood3.ogg 2514#：开始，起始点 0，https://download.mcbbs.net/assets/27/27722125968ac60c0f191a961b17e406f1351c6e
+[17:35:36.735] [Download] wood4.ogg 2516#：开始，起始点 0，https://download.mcbbs.net/assets/29/29586f60bfe6f521dbc748919d4f0dc5b28beefd
+[17:35:36.735] [Download] wood5.ogg 2517#：开始，起始点 0，https://download.mcbbs.net/assets/85/85ff970401cb1ef2e812f943077ab96549315d0a
+[17:35:36.811] [Download] stone4.ogg：文件大小 7520 B（7.34 K）
+[17:35:36.856] [Download] out.ogg 2518#：开始，起始点 0，https://download.mcbbs.net/assets/cb/cb017131516de9359cb81fb991f5b3694044f8db
+[17:35:36.856] [Download] blocks.mus 2519#：开始，起始点 0，https://download.mcbbs.net/assets/ea/eaf1d4879f3bf6f5f60ba01f475dc581c641b4ae
+[17:35:36.902] [Download] snow2.ogg：文件大小 6567 B（6.41 K）
+[17:35:36.937] [Download] stone6.ogg：文件大小 8178 B（7.99 K）
+[17:35:36.955] [Download] sand1.ogg：文件大小 5123 B（5 K）
+[17:35:36.988] [Download] cat.mus 2521#：开始，起始点 0，https://download.mcbbs.net/assets/be/bea1c181fce1150f3aaea8f14a773394ccc253d2
+[17:35:36.988] [Download] chirp.mus 2522#：开始，起始点 0，https://download.mcbbs.net/assets/d6/d639bf7f0516e5e363fe5db2aa150cedd38de19a
+[17:35:36.988] [Download] far.mus 2523#：开始，起始点 0，https://download.mcbbs.net/assets/21/21c9b7c6b486247322051f90aa964f161edc78d8
+[17:35:36.988] [Download] mall.mus 2524#：开始，起始点 0，https://download.mcbbs.net/assets/87/872d3d24452ff2155bb6be4a14c103e4451e6416
+[17:35:36.988] [Download] stal.mus 2525#：开始，起始点 0，https://download.mcbbs.net/assets/a0/a01e4caf7aaac61502a4a5e4f277b0de4795b802
+[17:35:37.070] [Download] wood5.ogg：文件大小 11520 B（11.2 K）
+[17:35:37.109] [Download] strad.mus 2527#：开始，起始点 0，https://download.mcbbs.net/assets/bc/bcadae10578ff321236f5670934f0b287eb80fbc
+[17:35:37.109] [Download] ward.mus 2528#：开始，起始点 0，https://download.mcbbs.net/assets/b2/b245effde68d07ffe32a033b61e96f1ed7e28783
+[17:35:37.109] [Download] where are we now.mus 2529#：开始，起始点 0，https://download.mcbbs.net/assets/85/854ff331487394ba83ca273ff73de525fbefcb25
+[17:35:37.150] [Download] wood1.ogg：文件大小 8985 B（8.77 K）
+[17:35:37.213] [Download] blocks.mus：文件大小 2587419 B（2.47 M）
+[17:35:37.234] [Download] fizz.ogg：文件大小 17002 B（16.6 K）
+[17:35:37.276] [Download] wood4.ogg：文件大小 9651 B（9.42 K）
+[17:35:37.362] [Download] out.ogg：文件大小 6059 B（5.92 K）
+[17:35:37.460] [Download] mall.mus：文件大小 1430016 B（1.36 M）
+[17:35:37.488] [Download] stal.mus：文件大小 1180789 B（1.13 M）
+[17:35:37.523] [Download] far.mus：文件大小 1285938 B（1.23 M）
+[17:35:37.536] [Download] chirp.mus：文件大小 1379756 B（1.32 M）
+[17:35:37.563] [Download] where are we now.mus：文件大小 1845255 B（1.76 M）
+[17:35:37.602] [Download] strad.mus：文件大小 1558180 B（1.49 M）
+[17:35:37.606] [Download] ward.mus：文件大小 1987588 B（1.9 M）
+[17:35:37.754] [Download] say1.ogg：已完成，剩余文件 397
+[17:35:37.928] [Download] hit4.ogg：已完成，剩余文件 396
+[17:35:37.928] [Download] say4.ogg：已完成，剩余文件 395
+[17:35:37.972] [Download] death.ogg：已完成，剩余文件 394
+[17:35:37.973] [Download] hit1.ogg：已完成，剩余文件 393
+[17:35:37.978] [Download] hitt2.ogg：已完成，剩余文件 392
+[17:35:37.978] [Download] largeBlast1.ogg：已完成，剩余文件 391
+[17:35:37.978] [Download] cave12.ogg：已完成，剩余文件 390
+[17:35:38.092] [Download] wood3.ogg：文件大小 9368 B（9.15 K）
+[17:35:38.126] [Download] grass3.ogg：文件大小 7013 B（6.85 K）
+[17:35:38.262] [Report] FPS 0, 动画 4, 下载中 390（603 K/s）
+[17:35:38.333] [Download] cat.mus：文件大小 1286636 B（1.23 M）
+[17:35:38.664] [Download] snow3.ogg：文件大小 6540 B（6.39 K）
+[17:35:46.786] [Download] 速度下限已提升到 1.02 M
+[17:35:51.551] [Download] cave11.ogg：已完成，剩余文件 389
+[17:35:51.564] [Download] big2.ogg：已完成，剩余文件 388
+[17:35:51.578] [Download] hit1.ogg：已完成，剩余文件 387
+[17:35:51.581] [Download] step3.ogg：已完成，剩余文件 386
+[17:35:51.582] [Download] step2.ogg：已完成，剩余文件 385
+[17:35:51.586] [Download] shoot.ogg：已完成，剩余文件 384
+[17:35:51.590] [Download] say2.ogg：已完成，剩余文件 383
+[17:35:51.597] [Download] say2.ogg：已完成，剩余文件 382
+[17:35:51.601] [Download] small4.ogg：已完成，剩余文件 381
+[17:35:51.602] [Download] step2.ogg：已完成，剩余文件 380
+[17:35:51.605] [Download] say3.ogg：已完成，剩余文件 379
+[17:35:51.607] [Download] cave3.ogg：已完成，剩余文件 378
+[17:35:51.610] [Download] idle2.ogg：已完成，剩余文件 377
+[17:35:51.614] [Download] rain4.ogg：已完成，剩余文件 376
+[17:35:51.615] [Download] breathe1.ogg：已完成，剩余文件 375
+[17:35:51.618] [Download] zpig3.ogg：已完成，剩余文件 374
+[17:35:51.626] [Download] wood3.ogg：已完成，剩余文件 373
+[17:35:51.626] [Download] breathe3.ogg：已完成，剩余文件 372
+[17:35:51.628] [Download] step1.ogg：已完成，剩余文件 371
+[17:35:51.628] [Download] step5.ogg：已完成，剩余文件 370
+[17:35:51.629] [Download] death.ogg：已完成，剩余文件 369
+[17:35:51.629] [Download] anvil_land.ogg：已完成，剩余文件 368
+[17:35:51.630] [Download] say3.ogg：已完成，剩余文件 367
+[17:35:51.632] [Download] zpigangry3.ogg：已完成，剩余文件 366
+[17:35:51.633] [Download] step1.ogg：已完成，剩余文件 365
+[17:35:51.633] [Download] big4.ogg：已完成，剩余文件 364
+[17:35:51.633] [Download] hurt2.ogg：已完成，剩余文件 363
+[17:35:51.634] [Download] small4.ogg：已完成，剩余文件 362
+[17:35:51.636] [Download] walk2.ogg：已完成，剩余文件 361
+[17:35:51.636] [Download] step3.ogg：已完成，剩余文件 360
+[17:35:51.636] [Download] idle4.ogg：已完成，剩余文件 359
+[17:35:51.637] [Download] zpighurt1.ogg：已完成，剩余文件 358
+[17:35:51.637] [Download] panting.ogg：已完成，剩余文件 357
+[17:35:51.637] [Download] base.ogg：已完成，剩余文件 356
+[17:35:51.638] [Download] hit2.ogg：已完成，剩余文件 355
+[17:35:51.638] [Download] cave7.ogg：已完成，剩余文件 354
+[17:35:51.639] [Download] small5.ogg：已完成，剩余文件 353
+[17:35:51.640] [Download] scream5.ogg：已完成，剩余文件 352
+[17:35:51.640] [Download] twinkle_far1.ogg：已完成，剩余文件 351
+[17:35:51.641] [Download] purr2.ogg：已完成，剩余文件 350
+[17:35:51.641] [Download] zpigangry4.ogg：已完成，剩余文件 349
+[17:35:51.643] [Download] zpighurt2.ogg：已完成，剩余文件 348
+[17:35:51.643] [Download] step3.ogg：已完成，剩余文件 347
+[17:35:51.644] [Download] big3.ogg：已完成，剩余文件 346
+[17:35:51.644] [Download] death.ogg：已完成，剩余文件 345
+[17:35:51.644] [Download] step1.ogg：已完成，剩余文件 344
+[17:35:51.645] [Download] cave5.ogg：已完成，剩余文件 343
+[17:35:51.645] [Download] zpigangry1.ogg：已完成，剩余文件 342
+[17:35:51.645] [Download] hurt1.ogg：已完成，剩余文件 341
+[17:35:51.646] [Download] step1.ogg：已完成，剩余文件 340
+[17:35:51.646] [Download] wings2.ogg：已完成，剩余文件 339
+[17:35:51.646] [Download] idle1.ogg：已完成，剩余文件 338
+[17:35:51.646] [Download] step2.ogg：已完成，剩余文件 337
+[17:35:51.646] [Download] metal2.ogg：已完成，剩余文件 336
+[17:35:51.646] [Download] step3.ogg：已完成，剩余文件 335
+[17:35:51.646] [Download] say1.ogg：已完成，剩余文件 334
+[17:35:51.646] [Download] scream3.ogg：已完成，剩余文件 333
+[17:35:51.647] [Download] wood click.ogg：已完成，剩余文件 332
+[17:35:51.647] [Download] hit1.ogg：已完成，剩余文件 331
+[17:35:51.647] [Download] hurt3.ogg：已完成，剩余文件 330
+[17:35:52.422] [Download] step4.ogg：已完成，剩余文件 329
+[17:35:52.422] [Download] walk4.ogg：已完成，剩余文件 328
+[17:35:52.424] [Download] swim2.ogg：已完成，剩余文件 327
+[17:35:52.424] [Download] grass4.ogg：已完成，剩余文件 326
+[17:35:52.424] [Download] ladder1.ogg：已完成，剩余文件 325
+[17:35:52.425] [Download] hurt2.ogg：已完成，剩余文件 324
+[17:35:52.425] [Download] cave10.ogg：已完成，剩余文件 323
+[17:35:52.425] [Download] rain1.ogg：已完成，剩余文件 322
+[17:35:52.425] [Download] death.ogg：已完成，剩余文件 321
+[17:35:52.426] [Download] step4.ogg：已完成，剩余文件 320
+[17:35:52.426] [Download] step1.ogg：已完成，剩余文件 319
+[17:35:52.426] [Download] scream2.ogg：已完成，剩余文件 318
+[17:35:52.426] [Download] step2.ogg：已完成，剩余文件 317
+[17:35:52.426] [Download] grass6.ogg：已完成，剩余文件 316
+[17:35:52.426] [Download] step4.ogg：已完成，剩余文件 315
+[17:35:52.426] [Download] hit1.ogg：已完成，剩余文件 314
+[17:35:52.426] [Download] small5.ogg：已完成，剩余文件 313
+[17:35:52.426] [Download] cave8.ogg：已完成，剩余文件 312
+[17:35:52.426] [Download] bowhit2.ogg：已完成，剩余文件 311
+[17:35:52.427] [Download] stone1.ogg：已完成，剩余文件 310
+[17:35:52.427] [Download] step3.ogg：已完成，剩余文件 309
+[17:35:52.427] [Download] stone2.ogg：已完成，剩余文件 308
+[17:35:52.427] [Download] shear.ogg：已完成，剩余文件 307
+[17:35:52.427] [Download] say1.ogg：已完成，剩余文件 306
+[17:35:52.427] [Download] say1.ogg：已完成，剩余文件 305
+[17:35:52.427] [Download] moan5.ogg：已完成，剩余文件 304
+[17:35:52.427] [Download] blast1.ogg：已完成，剩余文件 303
+[17:35:52.427] [Download] jump4.ogg：已完成，剩余文件 302
+[17:35:52.427] [Download] moan7.ogg：已完成，剩余文件 301
+[17:35:52.427] [Download] splash.ogg：已完成，剩余文件 300
+[17:35:52.443] [Download] wings5.ogg：已完成，剩余文件 299
+[17:35:52.455] [Download] moan6.ogg：已完成，剩余文件 298
+[17:35:53.131] [Control] 按下附加按钮：关闭 Minecraft
+[17:35:53.132] [Loader] 加载器 Minecraft 启动 状态改变：Aborted
+[17:35:53.133] [Loader] 加载器 补全文件 状态改变：Aborted
+[17:35:53.133] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Aborted
+[17:35:53.133] [Loader] 加载器 下载支持库文件 状态改变：Aborted
+[17:35:53.133] [Download] 下载支持库文件 已取消！
+[17:35:53.133] [Launch] [全局] 已无运行中的 Minecraft
+[17:35:53.133] [Launch] [7372] 尝试强制结束 Minecraft 进程
+[17:35:53.134] [Launch] [7372] 已强制结束 Minecraft 进程
+[17:35:53.134] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Aborted
+[17:35:53.134] [Loader] 加载器 下载资源文件 状态改变：Aborted
+[17:35:53.134] [Download] 下载资源文件 已取消！
+[17:35:53.136] [Download] wait.mus 2221#：中断
+[17:35:53.148] [Download] mellohi.mus 2220#：中断
+[17:35:53.149] [UI] 弹出提示：已关闭运行中的 Minecraft！
+[17:35:53.191] [Download] hal3.ogg 2009#：中断
+[17:35:53.197] [Download] 2.0.jar 1637#：中断
+[17:35:53.206] [Loader] 加载器 Loader Launch 状态改变：Finished
+[17:35:53.208] [Download] hal4.ogg 1958#：中断
+[17:35:53.221] [Launch] [7372] Minecraft 日志监控已退出
+[17:35:53.233] [Download] calm1.ogg 2225#：中断
+[17:35:53.236] [Download] hal1.ogg 2227#：中断
+[17:35:53.252] [UI] 弹出提示：已取消启动！
+[17:35:53.268] [Download] 13.mus 2217#：中断
+[17:35:53.271] [Download] ward.mus 2528#：中断
+[17:35:53.274] [Download] mall.mus 2538#：中断
+[17:35:53.290] [Download] hal1.ogg 1957#：中断
+[17:35:53.306] [Download] calm3.ogg 2005#：中断
+[17:35:53.313] [Download] strad.mus 2541#：中断
+[17:35:53.338] [Download] 13.ogg 2218#：中断
+[17:35:53.350] [Download] calm2.ogg 1956#：中断
+[17:35:53.384] [Download] piano1.ogg 2021#：中断
+[17:35:53.386] [Download] blocks.mus 2519#：中断
+[17:35:53.389] [Download] piano3.ogg 2047#：中断
+[17:35:53.448] [Download] where are we now.mus 2543#：中断
+[17:35:53.456] [Download] cat.mus 2521#：中断
+[17:35:53.594] [Download] ward.mus 2542#：中断
+[17:35:53.687] [Download] blocks.mus 2535#：中断
+[17:35:53.691] [Download] chirp.mus 2540#：中断
+[17:35:53.701] [Download] wait.mus 2232#：中断
+[17:35:53.728] [Download] hal2.ogg 2007#：中断
+[17:35:53.825] [Download] calm1.ogg 2230#：中断
+[17:35:53.842] [Download] far.mus 2523#：中断
+[17:35:53.874] [Download] strad.mus 2527#：中断
+[17:35:53.874] [Download] mall.mus 2524#：中断
+[17:35:53.894] [Download] hal3.ogg 2531#：中断
+[17:35:53.912] [Download] piano2.ogg 2029#：中断
+[17:35:53.915] [Download] calm2.ogg 2226#：中断
+[17:35:53.926] [Download] cat.ogg 2219#：中断
+[17:35:53.936] [Download] chirp.mus 2522#：中断
+[17:35:53.966] [Download] where are we now.mus 2529#：中断
+[17:35:54.010] [Download] piano3.ogg 2532#：中断
+[17:35:54.015] [Download] stal.mus 2525#：中断
+[17:35:54.043] [Download] hal2.ogg 2530#：中断
+[17:35:54.058] [Download] hal4.ogg 2228#：中断
+[17:35:54.084] [Download] blocks.mus 2534#：中断
+[17:35:54.338] [Control] 按下按钮：启动游戏
+[17:35:54.338] [Loader] 加载器 Loader Launch 状态改变：Loading
+[17:36:01.134] [System] 欲读取的文件不存在，已返回空字符串：F:\PCL\hints.txt
+[17:36:01.160] [Animation] 两个动画帧间隔 6812 ms
+[17:36:03.754] [Control] 按下按钮：取消
+[17:36:03.754] [Launch] 已取消启动
+[17:36:05.530] [Control] 按下图标按钮：BtnTitleClose
+[17:36:05.530] [System] 收到关闭指令
+[17:36:05.770] [System] 程序已退出，返回值：Success

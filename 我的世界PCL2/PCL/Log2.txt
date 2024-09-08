@@ -1,0 +1,51 @@
+[17:00:04.790] [Start] 程序版本：Release 2.8.3 (332)
+[17:00:04.793] [Start] 识别码：7D46-BF20-CF4D-8B92
+[17:00:04.793] [Start] 程序路径：C:\Users\wzj77\Desktop\我的世界PCL2\Plain Craft Launcher 2.exe
+[17:00:04.793] [Start] 系统编码：System.Text.DBCSCodePageEncoding (936, GBK=True)
+[17:00:04.793] [Start] 管理员权限：False
+[17:00:04.797] [Start] 第一阶段加载用时：47 ms
+[17:00:05.391] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[17:00:05.392] [Start] 第二阶段加载用时：594 ms
+[17:00:05.399] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[17:00:05.880] [System] 窗口已置顶，位置：(350, 210), 860 x 520
+[17:00:05.884] [Animation] 动画线程开始
+[17:00:05.884] [Start] 第三阶段加载用时：47 ms
+[17:00:05.886] [Start] 加载 DLL：Json
+[17:00:05.886] [System] 获取资源：Json
+[17:00:05.894] [Launch] Minecraft 文件夹：C:\Users\wzj77\Desktop\我的世界PCL2\.minecraft\
+[17:00:05.931] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[17:00:05.967] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[17:00:06.018] [Java] 缓存中有 4 个可用的 Java：
+[17:00:06.018] [Java]  - JRE 8 (8.0.51)：C:\Users\wzj77\Desktop\游戏\我的世界PCL2\.minecraft\runtime\java8\bin\
+[17:00:06.018] [Java]  - JDK 17 (17.0.11)：C:\Users\wzj77\Desktop\游戏\我的世界PCL2\.minecraft\runtime\java17\bin\
+[17:00:06.018] [Java]  - JDK 22 (22.0.1)：C:\Users\wzj77\Desktop\游戏\我的世界PCL2\.minecraft\runtime\java22\bin\
+[17:00:06.018] [Java]  - JRE 8 (8.0.421)：D:\java\bin\
+[17:00:06.222] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[17:00:06.223] [Loader] 加载器 PCL 服务 状态改变：Loading
+[17:00:06.224] [Server] 正在连接到 PCL 服务器
+[17:00:06.227] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[17:00:06.230] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1724058006-5ddd2e33-0-a63a8140b88b572bca9f5744264c8278，超时 10000ms
+[17:00:06.436] [Server] 服务器公告：146|333|332|5，无需更新
+[17:00:06.458] [Loader] 加载器 PCL 服务 状态改变：Finished
+[17:00:06.746] [Page] 实例化：清空自定义主页 UI，来源为空
+[17:00:06.747] [Animation] 两个动画帧间隔 844 ms
+[17:00:06.764] [Skin] 载入头像成功：Loader Skin Ms
+[17:00:06.764] [System] DPI：192，系统版本：10.0.22631.0，PCL 位置：C:\Users\wzj77\Desktop\我的世界PCL2\Plain Craft Launcher 2.exe
+[17:00:06.772] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\wzj77\Desktop\我的世界PCL2\.minecraft\versions\1.21.1\
+[17:00:06.778] [Loader] 加载器 登录 状态改变：Loading
+[17:00:06.780] [Launch] 登录加载已开始
+[17:00:06.780] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[17:00:06.782] [Launch] 登录方式：正版（zlczdy）
+[17:00:06.782] [Launch] 开始微软登录步骤 2（刷新登录）
+[17:00:06.786] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[17:00:06.951] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[17:00:07.035] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[17:00:07.801] [Launch] 开始微软登录步骤 3
+[17:00:07.801] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[17:00:08.053] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[17:00:08.554] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[17:00:09.288] [Control] 按下图标按钮：BtnTitleClose
+[17:00:09.290] [System] 收到关闭指令
+[17:00:09.305] [Launch] 开始微软登录步骤 4
+[17:00:09.306] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[17:00:09.521] [System] 程序已退出，返回值：Success

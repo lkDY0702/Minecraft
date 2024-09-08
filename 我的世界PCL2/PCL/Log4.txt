@@ -1,0 +1,79 @@
+[15:55:51.652] [Start] 程序版本：Release 2.8.3 (332)
+[15:55:51.653] [Start] 识别码：7D46-BF20-CF4D-8B92
+[15:55:51.653] [Start] 程序路径：C:\Users\wzj77\Desktop\我的世界PCL2\Plain Craft Launcher 2.exe
+[15:55:51.653] [Start] 系统编码：System.Text.DBCSCodePageEncoding (936, GBK=True)
+[15:55:51.653] [Start] 管理员权限：False
+[15:55:51.658] [Start] 第一阶段加载用时：47 ms
+[15:55:52.309] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[15:55:52.310] [Start] 第二阶段加载用时：641 ms
+[15:55:52.316] [Minecraft] 已创建 launcher_profiles.json：C:\Users\wzj77\Desktop\我的世界PCL2\.minecraft\
+[15:55:52.316] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[15:55:53.016] [System] 窗口已置顶，位置：(350, 248), 860 x 520
+[15:55:53.029] [Animation] 动画线程开始
+[15:55:53.029] [Start] 第三阶段加载用时：203 ms
+[15:55:53.034] [Start] 加载 DLL：Json
+[15:55:53.034] [System] 获取资源：Json
+[15:55:53.052] [Launch] Minecraft 文件夹：C:\Users\wzj77\Desktop\我的世界PCL2\.minecraft\
+[15:55:53.056] [Launch] Minecraft 版本无效：C:\Users\wzj77\Desktop\我的世界PCL2\.minecraft\versions\烦人的村民6.0-6.0\
+[15:55:53.073] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[15:55:53.100] [Setup] 当前选择的 Minecraft 版本：
+[15:55:53.101] [Minecraft] 未找到可用 Minecraft 版本
+[15:55:53.101] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[15:55:53.106] [Launch] 无可用 Minecraft 版本
+[15:55:53.140] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[15:55:53.150] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[15:55:53.221] [Java] 缓存中有 4 个可用的 Java：
+[15:55:53.222] [Java]  - JRE 8 (8.0.51)：C:\Users\wzj77\Desktop\游戏\我的世界PCL2\.minecraft\runtime\java8\bin\
+[15:55:53.222] [Java]  - JDK 17 (17.0.11)：C:\Users\wzj77\Desktop\游戏\我的世界PCL2\.minecraft\runtime\java17\bin\
+[15:55:53.222] [Java]  - JDK 22 (22.0.1)：C:\Users\wzj77\Desktop\游戏\我的世界PCL2\.minecraft\runtime\java22\bin\
+[15:55:53.222] [Java]  - JRE 8 (8.0.421)：D:\java\bin\
+[15:55:53.427] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[15:55:53.428] [Loader] 加载器 PCL 服务 状态改变：Loading
+[15:55:53.428] [Server] 正在连接到 PCL 服务器
+[15:55:53.440] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[15:55:53.442] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1723794953-402162d8-0-ffca1a5fdd4998e995874c48af8f74a8，超时 10000ms
+[15:55:53.542] [Server] 服务器公告：145|331|332|5，无需更新
+[15:55:53.549] [Loader] 加载器 PCL 服务 状态改变：Finished
+[15:55:54.036] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[15:55:54.622] [Page] 实例化：清空自定义主页 UI，来源为空
+[15:55:54.623] [Minecraft] 启动按钮：无 Minecraft 版本，要求下载
+[15:55:54.626] [Loader] 加载器 登录 状态改变：Loading
+[15:55:54.627] [Animation] 两个动画帧间隔 1578 ms
+[15:55:54.628] [Launch] 登录加载已开始
+[15:55:54.628] [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[15:55:54.630] [Launch] 登录方式：正版（zlczdy）
+[15:55:54.630] [Launch] 开始微软登录步骤 2（刷新登录）
+[15:55:54.637] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[15:55:54.643] [Skin] 载入头像成功：Loader Skin Ms
+[15:55:54.643] [System] DPI：192，系统版本：10.0.22631.0，PCL 位置：C:\Users\wzj77\Desktop\我的世界PCL2\Plain Craft Launcher 2.exe
+[15:55:54.882] [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 30000
+[15:55:55.793] [Launch] 开始微软登录步骤 3
+[15:55:55.793] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[15:55:56.043] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[15:55:56.545] [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 30000
+[15:55:57.303] [Launch] 开始微软登录步骤 4
+[15:55:57.304] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[15:55:57.555] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[15:55:58.056] [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 30000
+[15:55:58.233] [Control] 按下按钮：版本选择
+[15:55:58.250] [Control] 切换主要页面：VersionSelect, 0
+[15:55:58.388] [Minecraft] 有效的 Minecraft 文件夹：当前文件夹 > C:\Users\wzj77\Desktop\我的世界PCL2\.minecraft\
+[15:55:59.079] [Launch] 开始微软登录步骤 5
+[15:55:59.084] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[15:55:59.335] [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 30000
+[15:56:00.384] [Control] 按下图标按钮：BtnTitleInner
+[15:56:00.385] [Control] 切换主要页面：Launch, -1
+[15:56:00.905] [Launch] 开始微软登录步骤 6
+[15:56:00.905] [Net] 发起网络请求（GET，https://api.minecraftservices.com/entitlements/mcstore），最大超时 30000
+[15:56:01.159] [Net] 发起网络请求（GET，https://api.minecraftservices.com/entitlements/mcstore），最大超时 30000
+[15:56:02.127] [Control] 按下图标按钮：BtnTitleMin
+[15:56:02.136] [Launch] 开始微软登录步骤 7
+[15:56:02.137] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[15:56:02.388] [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 30000
+[15:56:02.658] [Animation] 两个动画帧间隔 515 ms
+[15:56:02.891] [Launch] 微软登录完成
+[15:56:02.891] [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[15:56:02.901] [Launch] 登录加载已结束
+[15:56:02.901] [Loader] 加载器 登录 状态改变：Finished
+[15:56:15.431] [System] 收到关闭指令
+[15:56:15.671] [System] 程序已退出，返回值：Success

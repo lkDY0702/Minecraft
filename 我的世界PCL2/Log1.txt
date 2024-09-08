@@ -1,0 +1,90 @@
+[17:04:08.611] [Start] 程序版本：Release 2.6.1（293）
+[17:04:08.611] [Start] 识别码：9245-1B80-3131-DE6D
+[17:04:08.611] [Start] 程序路径：E:\Plain Craft Launcher 2.exe
+[17:04:08.627] [Start] 第一阶段加载用时：141 ms
+[17:04:08.814] [Start] 版本号从 0 升高到 293
+[17:04:08.814] [Start] 最高版本号从 0 升高到 293
+[17:04:08.814] [Start] 已解除帮助页面的隐藏
+[17:04:08.939] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[17:04:08.939] [Start] 第二阶段加载用时：281 ms
+[17:04:08.989] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[17:04:09.249] [System] 窗口已置顶，位置：(210, 120), 860 x 520
+[17:04:09.259] [Animation] 动画线程开始
+[17:04:09.259] [Start] 第三阶段加载用时：78 ms
+[17:04:09.269] [Start] 加载 DLL：Json
+[17:04:09.269] [System] 获取资源：Json
+[17:04:09.279] [Launch] Minecraft 文件夹：E:\.minecraft\
+[17:04:09.389] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[17:04:09.399] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[17:04:09.469] [Skin] 载入头像成功：Loader Skin Legacy
+[17:04:09.479] [Minecraft] 启动按钮：Minecraft 版本：E:\.minecraft\versions\2.0\
+[17:04:09.499] [Control] 普通弹窗：协议授权
+在使用 PCL 前，请同意 PCL 的用户协议与免责声明。
+[17:04:09.979] [System] DPI：96，系统版本：10.0.18363.0，PCL 位置：E:\Plain Craft Launcher 2.exe
+[17:04:11.632] [Control] 按下按钮：同意
+[17:04:11.647] [Control] 普通弹框返回：1
+[17:04:11.647] [Java] 要求 Java 列表缓存更新
+[17:04:11.647] [Java] 初始化未找到可用的 Java，将自动触发搜索
+[17:04:11.647] [Loader] 加载器 查找 Java 状态改变：Loading
+[17:04:11.663] [Java] 开始部分遍历查找：C:\
+[17:04:11.866] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[17:04:11.866] [Loader] 加载器 PCL 服务 状态改变：Loading
+[17:04:11.866] [Server] 正在连接到 PCL 服务器
+[17:04:11.882] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[17:04:11.882] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1686301452-509de78b-0-c9fa7fc811d07d77193f73ddccbf1848，最大超时 10000
+[17:04:11.928] 遍历查找 Java 时出错（C:\yjhyjldata..）：未能找到路径“C:\yjhyjldata”的一部分。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   在 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   在 System.IO.DirectoryInfo.EnumerateDirectories()
+   在 PCL.ModJava.JavaSearchFolder(DirectoryInfo OriginalPath, Dictionary`2& Results, Boolean Source, Boolean IsFullSearch)
+错误类型：System.IO.DirectoryNotFoundException
+[17:04:11.928] [Java] 开始部分遍历查找：D:\
+[17:04:11.928] [Java] 开始部分遍历查找：E:\
+[17:04:11.960] [Java] 开始部分遍历查找：C:\Users\admin\AppData\Roaming\
+[17:04:11.960] [Java] 开始部分遍历查找：C:\Users\admin\AppData\Local\
+[17:04:12.007] [Server] 服务器公告：108|294|293|5，本地公告编号：0，需更新
+[17:04:12.022] [Loader] 加载器 源码获取 117# 状态改变：Loading
+[17:04:12.022] [Java] 开始完全遍历查找：E:\
+[17:04:12.022] [Java] 开始完全遍历查找：E:\.minecraft\
+[17:04:12.053] [Download] 1805801698_116 120#：开始，起始点 0，https://pcl2-server-1253424809.file.myqcloud.com/minecraft/download.json?sign=1686301452-4000b09c-0-82a4f263d17111f08c4ee5c2940f782e
+[17:04:12.085] [Download] 1805801698_116：文件大小 3896 B（3.8 K）
+[17:04:12.085] [Java] 开始确认列表 Java 状态，共 0 项
+[17:04:12.100] [Download] 1805801698_116：已完成，剩余文件 0
+[17:04:12.100] [Loader] 加载器 源码获取 117# 状态改变：Finished
+[17:04:12.116] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.json?sign=1686301452-356e37ee-0-c378eec99a0999b093b2e3bb8204d7ea，最大超时 10000
+[17:04:12.116] [Java] Java 搜索完成，发现 0 个 Java
+[17:04:12.116] [Loader] 加载器 查找 Java 状态改变：Finished
+[17:04:12.147] [Loader] 加载器 PCL 服务 状态改变：Finished
+[17:04:12.838] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 30000
+[17:04:12.963] 加载线程 DlClientList Mojang (12) 发生运行时错误：获取结果失败，基础连接已经关闭: 发送时发生错误。（https://launchermeta.mojang.com/mc/game/version_manifest.json）
+你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+————————————
+详细错误信息：
+→ 基础连接已经关闭: 发送时发生错误。
+→ 无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。
+→ 远程主机强迫关闭了一个现有的连接。
+   在 PCL.ModNet.NetGetCodeByRequestRetry(String Url, Encoding Encode, String Accept, Boolean IsJson, String BackupUrl)
+   在 PCL.ModDownload.DlClientListMojangMain(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__12-0._Lambda$__0()
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetGetCodeRequest(String Url, Encoding Encode, Int32 Timeout, Boolean IsJson, String Accept)
+   在 System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.FixedSizeReader.ReadPacket(Byte[] buffer, Int32 offset, Int32 count)
+   在 System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.CheckCompletionBeforeNextReceive(ProtocolToken message, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   在 System.Net.Security.SslState.ProcessAuthentication(LazyAsyncResult lazyResult)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Net.TlsStream.ProcessAuthentication(LazyAsyncResult result)
+   在 System.Net.TlsStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.PooledStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.ConnectStream.WriteHeaders(Boolean async)
+   在 System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+错误类型：System.Net.Sockets.SocketException
+[17:04:12.963] [Loader] 加载器 DlClientList Mojang 状态改变：Failed
+[17:05:01.550] [Control] 按下图标按钮：BtnTitleClose
+[17:05:01.555] [System] 收到关闭指令
+[17:05:01.791] [System] 程序已退出，返回值：Success
